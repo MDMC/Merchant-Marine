@@ -1,0 +1,1176 @@
+{
+  "FIND_RB": {
+    "3": [
+      "Ill4",
+      "Ill7",
+      "Ill10",
+      "Ill13",
+      "Ill16"
+    ],
+    "0": [
+      "[2]",
+      "[3",
+      "[4",
+      "[5",
+      "[6",
+      "[7",
+      "To Newburgh",
+      "flash packet",
+      " \\n",
+      "FOOT"
+    ],
+    "2": [
+      "-*",
+      "\u00be",
+      "Ill3",
+      "Ill6",
+      "Ill9",
+      "Ill12",
+      "Ill15"
+    ],
+    "1": [
+      "Ill2",
+      "Ill5",
+      "Ill8",
+      "Ill11",
+      "Ill14",
+      "   [Illustration   ",
+      "      ",
+      "     ",
+      "    ",
+      "\\n"
+    ]
+  },
+  "MAINDICT": "en_US",
+  "GOODWORDS": [
+    "Porto",
+    "Generall",
+    "Creasy",
+    "heare",
+    "Logie",
+    "councellors",
+    "Pims",
+    "Eustia",
+    "Millar",
+    "Gallatin",
+    "beautifullest",
+    "Atrato",
+    "Buenos",
+    "SYREN",
+    "spritsails",
+    "spente",
+    "aft",
+    "boomers",
+    "Picor",
+    "travellers",
+    "Vandervoort",
+    "Dumaresque",
+    "Folger",
+    "Chaytor's",
+    "modelled",
+    "spencer",
+    "Pittsburg",
+    "Travellers",
+    "Rainey's",
+    "Havre",
+    "Scoon",
+    "Ayres",
+    "li",
+    "Gilman",
+    "Thetis",
+    "unstormy",
+    "travelling",
+    "5ly",
+    "farr",
+    "Floridas",
+    "22d",
+    "poundings",
+    "tite",
+    "digged",
+    "Boardman",
+    "Syren",
+    "greate",
+    "Redfield",
+    "marline",
+    "Grimble",
+    "Collins's",
+    "outsail",
+    "Cunarders",
+    "noof",
+    "traveller",
+    "Cushing",
+    "App",
+    "Ile",
+    "impowers",
+    "Niles's",
+    "Howqua",
+    "Tarragona",
+    "Matanzas",
+    "staves",
+    "Selleck",
+    "Howland's",
+    "boatsteerer",
+    "Marblehead",
+    "Hollingworth",
+    "vesiel",
+    "Coggeshall",
+    "Dingley",
+    "XVId",
+    "re\u00ebxported",
+    "strick",
+    "risque",
+    "Corrunes",
+    "Brillante",
+    "Dod",
+    "libelled",
+    "Hobomoc",
+    "Rhode",
+    "galliot",
+    "Bilboa",
+    "Guave",
+    "vitall",
+    "Dundas",
+    "Nav",
+    "Medford",
+    "unsuccess",
+    "Hassan",
+    "whael",
+    "shallops",
+    "Montauk",
+    "Symington",
+    "centre",
+    "Henlopen",
+    "scooner",
+    "co\u00f6perate",
+    "Fickett",
+    "Eisha",
+    "Norwood",
+    "Bedford",
+    "dismasting",
+    "Bashaw",
+    "Troughton",
+    "Creesy",
+    "Hersilia",
+    "Doon",
+    "Lorde",
+    "centres",
+    "de",
+    "privateersmen",
+    "boatsteerers",
+    "pounders",
+    "Stede",
+    "wors",
+    "arrearages",
+    "Thurots",
+    "Chex",
+    "Fayal",
+    "McIver",
+    "Queenstown",
+    "Gravesend",
+    "Spoliations",
+    "cocket",
+    "Brunel",
+    "Lachlan",
+    "fouellishly",
+    "Winsor's",
+    "axe",
+    "Gibert",
+    "Hallett",
+    "Batavia",
+    "Eastburn's",
+    "Clermont",
+    "keelsons",
+    "osnaburghs",
+    "od",
+    "repassing",
+    "del",
+    "queensware",
+    "Eastburn",
+    "logwood",
+    "Manly's",
+    "Dey",
+    "fustic",
+    "Honour",
+    "Salmagundi",
+    "Norte",
+    "fibres",
+    "untrammelled",
+    "Hempsted",
+    "lateen",
+    "Tercira",
+    "marvellous",
+    "Casco",
+    "Homans",
+    "Tappan",
+    "Cortlandt",
+    "spoliations",
+    "Bellisaurius",
+    "Haraden",
+    "Algerine",
+    "gould",
+    "6d",
+    "interoceanic",
+    "Dalwinston",
+    "pitchpoled",
+    "dwts",
+    "Quar",
+    "Regla",
+    "Preble",
+    "Codwise",
+    "Chaytor",
+    "Chidley",
+    "negro",
+    "Nootka",
+    "Blocx",
+    "Morro",
+    "Guadaloupe",
+    "programme",
+    "Affrica",
+    "Levanter",
+    "Pepperrell",
+    "Crozet",
+    "Creede",
+    "Holdredge",
+    "keelless",
+    "Cockets",
+    "Clermont's",
+    "draught",
+    "Hughson's",
+    "Dongan",
+    "Charlestown",
+    "squaly",
+    "IIIs",
+    "d'equipage",
+    "Tampico",
+    "Dudingston",
+    "SPOLIATIONS",
+    "yt",
+    "Bellomont",
+    "Hongkong",
+    "Borland",
+    "Nassaw",
+    "Codman",
+    "Esopus",
+    "Ledyard",
+    "Impowered",
+    "travelled",
+    "Hawkesbury",
+    "maligabar",
+    "forego",
+    "equalled",
+    "Serv",
+    "Algesiras",
+    "Breard",
+    "Ph\u0153nix",
+    "lansed",
+    "Howqua's",
+    "marino",
+    "whaleships",
+    "Coytemore",
+    "23d",
+    "Alicant",
+    "Musketts",
+    "Wiggin",
+    "scoons",
+    "Junius",
+    "Ewoutsen",
+    "justiciaries",
+    "Gilpin",
+    "lateener",
+    "Blackbeard",
+    "spritsail",
+    "Swet",
+    "traid",
+    "Stonington",
+    "Tigre",
+    "Rumsey",
+    "Teriffa",
+    "Bellomont's",
+    "Humbolt",
+    "Allaire",
+    "despatch",
+    "naturall",
+    "re\u00ebnforced",
+    "Demologos",
+    "coastwise",
+    "Jeffries's",
+    "Primage",
+    "Gaspee",
+    "Algerines",
+    "Sargeant",
+    "coamings",
+    "Maidstone's",
+    "Truro",
+    "Newburgh",
+    "Moston",
+    "Heard's",
+    "Fonseca",
+    "Butman",
+    "Puerrydon",
+    "whalemen",
+    "Rivalship",
+    "Dirigo",
+    "re\u00ebxport",
+    "unequalled",
+    "roadstead",
+    "commandante",
+    "Berwick",
+    "Englanders",
+    "Petit",
+    "Peele",
+    "Ericsson",
+    "shipmaster",
+    "gentlemanlike",
+    "keelson",
+    "Espirito",
+    "Namquit",
+    "Macfarlane",
+    "annum",
+    "DIRIGO",
+    "practised",
+    "Grande",
+    "yeere",
+    "r\u00f4le",
+    "Kennebec",
+    "Crozet's",
+    "parcells",
+    "Birkenhead",
+    "Bretons",
+    "cambrick",
+    "Derbys",
+    "blaime",
+    "shap'd",
+    "cheafe",
+    "shipmasters",
+    "Leogane",
+    "unstinted",
+    "Honduranians",
+    "Monhegan",
+    "scoon",
+    "sailormen",
+    "goodlie",
+    "Louisburg",
+    "petre",
+    "parte",
+    "instalments",
+    "ne",
+    "Gomer",
+    "privateering",
+    "McCulloch",
+    "Hussey",
+    "ton",
+    "Inman",
+    "Ambrister",
+    "Hasket",
+    "Arbuthnot",
+    "Barrell",
+    "Sloo",
+    "pinnace",
+    "fritful",
+    "Vattel",
+    "Byrnes",
+    "Backbay",
+    "Hingham",
+    "Stowell",
+    "Skjoldabrand",
+    "Griffiths's",
+    "Sturgis",
+    "Gasp\u00e9",
+    "Asso",
+    "moveable",
+    "pannels",
+    "Dropt",
+    "Charnock",
+    "Toucey",
+    "Griffiths",
+    "caviare",
+    "Sul",
+    "Weeden",
+    "Wolvin",
+    "barques",
+    "shallop",
+    "Anamaboe",
+    "doeing",
+    "Mayhew",
+    "dismasted",
+    "stupefier",
+    "Limon",
+    "Peyster",
+    "bbs",
+    "fatt",
+    "Rasieres",
+    "Zee",
+    "re\u00ebxporting",
+    "unplaned",
+    "b\u00eache",
+    "Colden's",
+    "Cl\u00e6s",
+    "Jumeaux",
+    "Janeiro",
+    "Handyside",
+    "Holyhead",
+    "Bencoolen",
+    "negroes",
+    "Orkneys",
+    "firkins",
+    "Elizabethtown",
+    "Grinnell",
+    "alowe",
+    "Selleck's",
+    "Lenox",
+    "Naumkeag",
+    "piceses",
+    "Roscius",
+    "unwarmed",
+    "Drempt",
+    "Eustatia",
+    "Eckford",
+    "favour",
+    "Magee",
+    "Warr",
+    "Lockport",
+    "Arago",
+    "Margent",
+    "Digby",
+    "Athearn",
+    "ankers",
+    "Charnock's",
+    "Assiento",
+    "spermaceti",
+    "al",
+    "Geddes",
+    "Mauretania",
+    "despatched",
+    "arivel",
+    "Keasbey's",
+    "Astr\u00e6",
+    "Tierces",
+    "Aspinwall",
+    "Fuera",
+    "Manby",
+    "Mercil",
+    "wich",
+    "sess",
+    "Lascars",
+    "Maio",
+    "Goode's",
+    "meete",
+    "broake",
+    "Wethersfield",
+    "hapen",
+    "Leipsic",
+    "noe",
+    "tierces",
+    "Sterre",
+    "barque",
+    "rerigging",
+    "Jacketts",
+    "smale",
+    "Maidstone",
+    "unmingled",
+    "Maisi",
+    "Engld",
+    "Sess",
+    "afeard",
+    "defence",
+    "Kennebunk",
+    "XXIII",
+    "resistence",
+    "Plata",
+    "Silsbee",
+    "Carmarthen",
+    "Aury",
+    "hhds",
+    "Coppin",
+    "anamaboe",
+    "acqt",
+    "Montegue",
+    "Dodsley's",
+    "CLERMONT",
+    "Samuels",
+    "chanty",
+    "onley",
+    "Crowninshield",
+    "Jeffries",
+    "Barbadoes",
+    "Carnes",
+    "Barataria",
+    "Fuca",
+    "Chagres",
+    "west'ard",
+    "Harbour",
+    "rundlet",
+    "helth",
+    "plough",
+    "Piscataqua",
+    "Aldrichs",
+    "stokehole"
+  ],
+  "NOTES": "Page 68:  Affrica may be a typo for Africa\nPage 92: Bilboa may be a typo for Bilbao\nPage 124: resistence may be a typo for reistance\nPage 218: pannels should possibly be panels\n\n\n\nU.S.\nR.N.\nH.P.\n",
+  "DOCHASH": {
+    "<BYTE>": "05  ee  7c  51  d2  f9  c0  72  af  1c  5c  07  9e  a2  c6  6d  cc  4c  72  3b "
+  },
+  "EDITHIGHLIGHTS": [
+    false,
+    false
+  ],
+  "EDITSIZE": 13,
+  "BOOKMARKS": [],
+  "BADWORDS": [],
+  "BOOKINFO": {
+    "Title": "?",
+    "Publication date": "1???",
+    "Author": "?",
+    "Language": "English"
+  },
+  "PAGETABLE": null,
+  "VERSION": "2",
+  "SCANNOLIST": [],
+  "FOOTNOTES": [],
+  "FIND_UB": {
+    "22": {
+      "rep1": "",
+      "andnext": false,
+      "label": "4 empty lines",
+      "all": false,
+      "tooltip": null,
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=[^\\n]\\n)\\n\\n\\n\\n(?=[^\\n])",
+      "rep2": "",
+      "andprior": false
+    },
+    "10": {
+      "rep1": "",
+      "andnext": false,
+      "label": "unbalanced",
+      "all": false,
+      "tooltip": "Find open-bracket that is not followed by closing bracket",
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(\\([^)]+\\()|(\\[[^\\]]+\\[)|(\\{[^}]+\\{)|(<[^>]+<)",
+      "rep2": "",
+      "andprior": false
+    },
+    "15": {
+      "rep1": "",
+      "andnext": false,
+      "label": "not Latin-1",
+      "all": false,
+      "tooltip": "Find letters not in the Latin-1 set",
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "[^\\p{InBasic_Latin}\\p{InLatin-1_Supplement}]",
+      "rep2": "",
+      "andprior": false
+    },
+    "8": {
+      "rep1": null,
+      "andnext": null,
+      "label": "spacep",
+      "all": null,
+      "tooltip": "Whitespace preceding punctuation or after hyphen",
+      "regex": true,
+      "rep3": null,
+      "case": false,
+      "word": null,
+      "find": "(\\s[\\.,;:?!\\-])|(-\\s)",
+      "rep2": null,
+      "andprior": null
+    },
+    "13": {
+      "rep1": "",
+      "andnext": false,
+      "label": "1-letter",
+      "all": false,
+      "tooltip": "Find a one-letter line",
+      "regex": true,
+      "rep3": "",
+      "case": true,
+      "word": false,
+      "find": "(?<=\\n)[^\\n](?=\\n)",
+      "rep2": "",
+      "andprior": false
+    },
+    "23": {
+      "rep1": "",
+      "andnext": false,
+      "label": "5+ empty lines",
+      "all": false,
+      "tooltip": null,
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=[^\\n]\\n)\\n{5,}",
+      "rep2": "",
+      "andprior": false
+    },
+    "17": {
+      "rep1": "",
+      "andnext": false,
+      "label": "para-no-p",
+      "all": false,
+      "tooltip": "Find end of paragraph without punctuation",
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=\\w[\"'\u00bb]?)\\n\\n",
+      "rep2": "",
+      "andprior": false
+    },
+    "20": {
+      "rep1": "",
+      "andnext": false,
+      "label": "2 empty lines",
+      "all": false,
+      "tooltip": null,
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=[^\\n]\\n)\\n\\n(?=[^\\n])",
+      "rep2": "",
+      "andprior": false
+    },
+    "12": {
+      "rep1": "",
+      "andnext": false,
+      "label": "commaA",
+      "all": false,
+      "tooltip": "Find comma, space, uppercase (often valid)",
+      "regex": true,
+      "rep3": "",
+      "case": true,
+      "word": false,
+      "find": ",\\s*\\p{Uppercase_Letter}",
+      "rep2": "",
+      "andprior": false
+    },
+    "6": {
+      "rep1": "",
+      "andnext": true,
+      "label": "pseps",
+      "all": false,
+      "tooltip": null,
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=\\n)-+File:\\s+([^\\.]+)\\.png-+((\\\\[^\\\\\\n]+)+\\\\)?-*?\\n",
+      "rep2": "\\n",
+      "andprior": false
+    },
+    "9": {
+      "rep1": null,
+      "andnext": null,
+      "label": "-01-",
+      "all": null,
+      "tooltip": "Standalone 0 or 1",
+      "regex": true,
+      "rep3": null,
+      "case": null,
+      "word": null,
+      "find": "\\W[01]\\W",
+      "rep2": null,
+      "andprior": null
+    },
+    "14": {
+      "rep1": "",
+      "andnext": false,
+      "label": "lcpara",
+      "all": false,
+      "tooltip": "Paragraph (text after two newlines) starts with lowercase",
+      "regex": true,
+      "rep3": "",
+      "case": true,
+      "word": false,
+      "find": "(?<=\\n\\n)\\p{Lowercase_Letter}",
+      "rep2": "",
+      "andprior": false
+    },
+    "7": {
+      "rep1": "-",
+      "andnext": false,
+      "label": "faux-hy",
+      "all": false,
+      "tooltip": "Find hyphen-shaped Unicode characters other than ascii hyphen",
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "[\\u02d7\\u2012\\u2013\\u2014\\u2053\\u2212\\ufe58\\ufe63\\uff0d]+",
+      "rep2": "",
+      "andprior": false
+    },
+    "11": {
+      "rep1": "",
+      "andnext": false,
+      "label": "dota",
+      "all": false,
+      "tooltip": "Find period, space, lowercase",
+      "regex": true,
+      "rep3": "",
+      "case": true,
+      "word": false,
+      "find": "\\.\\s*\\p{Lowercase_Letter}",
+      "rep2": "",
+      "andprior": false
+    },
+    "21": {
+      "rep1": "",
+      "andnext": false,
+      "label": "3 empty lines",
+      "all": false,
+      "tooltip": null,
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=[^\\n]\\n)\\n\\n\\n(?=[^\\n])",
+      "rep2": "",
+      "andprior": false
+    },
+    "18": {
+      "rep1": null,
+      "andnext": null,
+      "label": "line>75",
+      "all": null,
+      "tooltip": "Find line longer than 75 characters",
+      "regex": true,
+      "rep3": null,
+      "case": null,
+      "word": null,
+      "find": "[^\\n]{76,}",
+      "rep2": null,
+      "andprior": null
+    },
+    "19": {
+      "rep1": "",
+      "andnext": false,
+      "label": "1 empty line",
+      "all": false,
+      "tooltip": null,
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "(?<=[^\\n]\\n)\\n(?=[^\\n])",
+      "rep2": "",
+      "andprior": false
+    },
+    "16": {
+      "rep1": "",
+      "andnext": false,
+      "label": "not 7-bit",
+      "all": false,
+      "tooltip": "Find letters not in the 7-bit ascii set",
+      "regex": true,
+      "rep3": "",
+      "case": false,
+      "word": false,
+      "find": "[^\\p{InBasic_Latin}]",
+      "rep2": "",
+      "andprior": false
+    }
+  },
+  "WORDCENSUS": [],
+  "IMAGEZOOM": 0.25,
+  "CURSOR": [
+    502969,
+    502969
+  ],
+  "CHARCENSUS": [
+    [
+      " ",
+      81784
+    ],
+    [
+      "!",
+      27
+    ],
+    [
+      "\"",
+      1148
+    ],
+    [
+      "$",
+      157
+    ],
+    [
+      "&",
+      34
+    ],
+    [
+      "'",
+      255
+    ],
+    [
+      "(",
+      248
+    ],
+    [
+      ")",
+      248
+    ],
+    [
+      ",",
+      5996
+    ],
+    [
+      "-",
+      1171
+    ],
+    [
+      ".",
+      3770
+    ],
+    [
+      "/",
+      1
+    ],
+    [
+      "0",
+      1178
+    ],
+    [
+      "1",
+      1249
+    ],
+    [
+      "2",
+      566
+    ],
+    [
+      "3",
+      382
+    ],
+    [
+      "4",
+      358
+    ],
+    [
+      "5",
+      414
+    ],
+    [
+      "6",
+      352
+    ],
+    [
+      "7",
+      377
+    ],
+    [
+      "8",
+      640
+    ],
+    [
+      "9",
+      313
+    ],
+    [
+      ":",
+      111
+    ],
+    [
+      ";",
+      333
+    ],
+    [
+      "?",
+      23
+    ],
+    [
+      "A",
+      1327
+    ],
+    [
+      "B",
+      785
+    ],
+    [
+      "C",
+      930
+    ],
+    [
+      "D",
+      252
+    ],
+    [
+      "E",
+      607
+    ],
+    [
+      "F",
+      416
+    ],
+    [
+      "G",
+      282
+    ],
+    [
+      "H",
+      438
+    ],
+    [
+      "I",
+      934
+    ],
+    [
+      "J",
+      213
+    ],
+    [
+      "K",
+      47
+    ],
+    [
+      "L",
+      346
+    ],
+    [
+      "M",
+      479
+    ],
+    [
+      "N",
+      586
+    ],
+    [
+      "O",
+      274
+    ],
+    [
+      "P",
+      397
+    ],
+    [
+      "Q",
+      13
+    ],
+    [
+      "R",
+      349
+    ],
+    [
+      "S",
+      886
+    ],
+    [
+      "T",
+      1345
+    ],
+    [
+      "U",
+      153
+    ],
+    [
+      "V",
+      100
+    ],
+    [
+      "W",
+      476
+    ],
+    [
+      "X",
+      21
+    ],
+    [
+      "Y",
+      204
+    ],
+    [
+      "Z",
+      2
+    ],
+    [
+      "[",
+      42
+    ],
+    [
+      "]",
+      42
+    ],
+    [
+      "_",
+      1298
+    ],
+    [
+      "a",
+      31605
+    ],
+    [
+      "b",
+      5239
+    ],
+    [
+      "c",
+      10628
+    ],
+    [
+      "d",
+      15016
+    ],
+    [
+      "e",
+      50858
+    ],
+    [
+      "f",
+      9930
+    ],
+    [
+      "g",
+      6967
+    ],
+    [
+      "h",
+      23146
+    ],
+    [
+      "i",
+      25493
+    ],
+    [
+      "j",
+      197
+    ],
+    [
+      "k",
+      1799
+    ],
+    [
+      "l",
+      13654
+    ],
+    [
+      "m",
+      8688
+    ],
+    [
+      "n",
+      27658
+    ],
+    [
+      "o",
+      28631
+    ],
+    [
+      "p",
+      8319
+    ],
+    [
+      "q",
+      250
+    ],
+    [
+      "r",
+      24973
+    ],
+    [
+      "s",
+      25450
+    ],
+    [
+      "t",
+      36312
+    ],
+    [
+      "u",
+      9126
+    ],
+    [
+      "v",
+      3644
+    ],
+    [
+      "w",
+      8243
+    ],
+    [
+      "x",
+      593
+    ],
+    [
+      "y",
+      5604
+    ],
+    [
+      "z",
+      278
+    ],
+    [
+      "\u00a3",
+      62
+    ],
+    [
+      "\u00b0",
+      1
+    ],
+    [
+      "\u00bd",
+      11
+    ],
+    [
+      "\u00be",
+      2
+    ],
+    [
+      "\u00d7",
+      2
+    ],
+    [
+      "\u00e6",
+      10
+    ],
+    [
+      "\u00e9",
+      4
+    ],
+    [
+      "\u00ea",
+      1
+    ],
+    [
+      "\u00eb",
+      5
+    ],
+    [
+      "\u00f4",
+      2
+    ],
+    [
+      "\u00f6",
+      2
+    ],
+    [
+      "\u0153",
+      2
+    ],
+    [
+      "\u2032",
+      1
+    ],
+    [
+      "\u2153",
+      1
+    ],
+    [
+      "\u2154",
+      1
+    ]
+  ],
+  "IMAGELINKING": [
+    true,
+    false
+  ]
+}
