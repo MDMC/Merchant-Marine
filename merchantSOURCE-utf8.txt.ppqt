@@ -1,528 +1,1340 @@
 {
-  "FIND_RB": {
-    "3": [
-      "Ill4",
-      "Ill7",
-      "Ill10",
-      "Ill13",
-      "Ill16"
-    ],
-    "0": [
-      "[Illustration: ",
-      "Ill1",
-      "South Street",
-      "CHAPTER",
-      "Footnote",
-      "[**",
-      "/*",
-      "[4]",
-      "1/2",
-      "cambrick"
-    ],
-    "2": [
-      "-*",
-      "\u00be",
-      "Ill3",
-      "Ill6",
-      "Ill9",
-      "Ill12",
-      "Ill15"
-    ],
-    "1": [
-      "\u00f4",
-      "\u00e9",
-      "\u2153",
-      "[Illustration: <id=\"Ill1\">",
-      "Ill2",
-      "Ill5",
-      "Ill8",
-      "Ill11",
-      "Ill14",
-      "["
-    ]
-  },
-  "MAINDICT": "en_US",
+  "IMAGELINKING": [
+    true,
+    false
+  ],
   "GOODWORDS": [
-    "Porto",
-    "Generall",
-    "Creasy",
-    "heare",
     "Logie",
-    "councellors",
-    "Pims",
-    "Eustia",
-    "Millar",
-    "Gallatin",
-    "beautifullest",
-    "Atrato",
-    "Buenos",
-    "SYREN",
-    "spritsails",
-    "spente",
-    "aft",
-    "boomers",
-    "Picor",
-    "travellers",
-    "Vandervoort",
-    "Dumaresque",
-    "Folger",
-    "Chaytor's",
-    "modelled",
-    "spencer",
-    "Pittsburg",
-    "Travellers",
-    "Rainey's",
-    "Havre",
-    "Scoon",
-    "Ayres",
-    "li",
-    "Gilman",
-    "Thetis",
-    "unstormy",
-    "travelling",
-    "5ly",
-    "farr",
-    "Floridas",
-    "22d",
-    "poundings",
-    "tite",
-    "digged",
-    "Boardman",
-    "Syren",
-    "greate",
-    "Redfield",
-    "marline",
-    "Grimble",
-    "Collins's",
-    "outsail",
-    "Cunarders",
-    "noof",
-    "traveller",
-    "Cushing",
-    "App",
-    "Ile",
-    "impowers",
-    "Niles's",
-    "Howqua",
-    "Tarragona",
-    "Matanzas",
-    "staves",
-    "Selleck",
-    "Howland's",
-    "boatsteerer",
-    "Marblehead",
-    "Hollingworth",
-    "vesiel",
-    "Coggeshall",
-    "Dingley",
-    "XVId",
-    "re\u00ebxported",
-    "strick",
-    "risque",
-    "Corrunes",
-    "Brillante",
-    "Dod",
-    "libelled",
-    "Hobomoc",
-    "Rhode",
-    "galliot",
-    "Guave",
-    "Bilboa",
-    "vitall",
-    "Dundas",
-    "Nav",
-    "Medford",
-    "unsuccess",
-    "Hassan",
-    "whael",
-    "shallops",
-    "Montauk",
-    "Symington",
-    "centre",
-    "Henlopen",
-    "scooner",
-    "co\u00f6perate",
-    "Fickett",
-    "Eisha",
-    "Norwood",
-    "Bedford",
-    "dismasting",
-    "Bashaw",
-    "Troughton",
-    "Creesy",
-    "Hersilia",
-    "Doon",
-    "Lorde",
-    "centres",
-    "de",
-    "privateersmen",
-    "boatsteerers",
-    "pounders",
-    "Stede",
-    "wors",
-    "arrearages",
-    "Thurots",
-    "Chex",
-    "Fayal",
-    "McIver",
-    "Queenstown",
-    "Gravesend",
-    "Spoliations",
-    "cocket",
-    "Brunel",
-    "Lachlan",
-    "fouellishly",
-    "Winsor's",
-    "axe",
-    "Gibert",
-    "Hallett",
-    "Batavia",
-    "Eastburn's",
-    "Clermont",
-    "keelsons",
-    "osnaburghs",
-    "od",
-    "repassing",
-    "del",
-    "queensware",
-    "Eastburn",
-    "logwood",
-    "Manly's",
-    "Dey",
-    "fustic",
-    "Honour",
-    "Salmagundi",
-    "Norte",
-    "fibres",
-    "untrammelled",
-    "Hempsted",
-    "lateen",
-    "Tercira",
-    "marvellous",
-    "Casco",
-    "Homans",
-    "Tappan",
-    "Cortlandt",
-    "spoliations",
-    "Bellisaurius",
-    "Haraden",
-    "Algerine",
-    "gould",
-    "6d",
-    "interoceanic",
-    "Dalwinston",
-    "pitchpoled",
-    "dwts",
-    "Quar",
-    "Regla",
-    "Preble",
-    "Codwise",
-    "Chaytor",
-    "Chidley",
-    "negro",
-    "Nootka",
-    "Blocx",
-    "Morro",
-    "Guadaloupe",
-    "programme",
-    "Affrica",
-    "Levanter",
-    "Pepperrell",
-    "Crozet",
-    "Creede",
-    "Holdredge",
-    "keelless",
     "Cockets",
-    "Clermont's",
-    "draught",
-    "Hughson's",
-    "Dongan",
-    "Charlestown",
-    "squaly",
-    "IIIs",
-    "d'equipage",
-    "Tampico",
-    "Dudingston",
-    "SPOLIATIONS",
-    "yt",
-    "Bellomont",
-    "Hongkong",
-    "Borland",
-    "Nassaw",
-    "Codman",
-    "Esopus",
-    "Ledyard",
-    "Impowered",
-    "travelled",
-    "Hawkesbury",
-    "maligabar",
-    "forego",
-    "equalled",
-    "Serv",
-    "Algesiras",
-    "Breard",
-    "Ph\u0153nix",
-    "lansed",
-    "Howqua's",
-    "marino",
-    "whaleships",
-    "Coytemore",
-    "23d",
-    "Alicant",
-    "Musketts",
-    "Wiggin",
-    "scoons",
-    "Junius",
-    "Ewoutsen",
-    "justiciaries",
-    "Gilpin",
-    "lateener",
-    "Blackbeard",
-    "spritsail",
-    "Swet",
-    "traid",
-    "Stonington",
-    "Tigre",
-    "Rumsey",
-    "Teriffa",
-    "Bellomont's",
-    "Humbolt",
-    "Allaire",
-    "despatch",
-    "naturall",
-    "re\u00ebnforced",
-    "Demologos",
-    "coastwise",
-    "Jeffries's",
-    "Primage",
-    "Gaspee",
-    "Algerines",
-    "Sargeant",
-    "coamings",
-    "Maidstone's",
-    "Truro",
-    "Newburgh",
-    "Moston",
-    "Heard's",
-    "Fonseca",
-    "Butman",
-    "Puerrydon",
-    "whalemen",
     "Rivalship",
-    "Dirigo",
-    "re\u00ebxport",
-    "unequalled",
-    "roadstead",
-    "commandante",
-    "Berwick",
-    "Englanders",
+    "Floridas",
+    "DIRIGO",
+    "Tigre",
+    "Bretons",
+    "Hingham",
+    "vesiel",
+    "Macfarlane",
+    "negro",
+    "Matanzas",
+    "dismasting",
+    "Wiggin",
+    "privateersmen",
+    "bbs",
+    "unplaned",
+    "Travellers",
+    "Primage",
+    "fatt",
+    "Corrunes",
+    "Margent",
+    "ne",
+    "Plata",
+    "Ledyard",
+    "pinnace",
+    "Bellomont's",
+    "boatsteerers",
+    "naturall",
+    "Scoon",
+    "Coggeshall",
+    "Spoliations",
+    "arrearages",
+    "Pims",
+    "Guadaloupe",
+    "Dongan",
+    "Hongkong",
+    "fritful",
+    "Creede",
+    "Kennebec",
     "Petit",
-    "Peele",
-    "Ericsson",
-    "shipmaster",
-    "gentlemanlike",
+    "Barbadoes",
+    "whaleships",
+    "Ewoutsen",
+    "Codwise",
+    "Aury",
+    "heare",
+    "centre",
+    "Lockport",
+    "afeard",
+    "Charnock",
+    "r\u00f4le",
+    "forego",
+    "Silsbee",
+    "Redfield",
+    "Jumeaux",
+    "Bencoolen",
+    "Gibert",
+    "favour",
+    "noof",
+    "Cunarders",
+    "Cushing",
+    "tierces",
+    "privateering",
+    "Heard's",
+    "shallop",
+    "Gallatin",
     "keelson",
     "Espirito",
-    "Namquit",
-    "Macfarlane",
-    "annum",
-    "DIRIGO",
-    "practised",
-    "Grande",
-    "yeere",
-    "r\u00f4le",
-    "Kennebec",
-    "Crozet's",
-    "parcells",
-    "Birkenhead",
-    "Bretons",
-    "cambrick",
-    "Derbys",
-    "blaime",
-    "shap'd",
-    "cheafe",
-    "shipmasters",
-    "Leogane",
-    "unstinted",
-    "Honduranians",
-    "Monhegan",
-    "scoon",
-    "sailormen",
-    "goodlie",
-    "Louisburg",
-    "petre",
-    "parte",
-    "instalments",
-    "ne",
-    "Gomer",
-    "privateering",
-    "McCulloch",
-    "Hussey",
-    "ton",
-    "Inman",
-    "Ambrister",
-    "Hasket",
-    "Arbuthnot",
-    "Sloo",
-    "fritful",
-    "pinnace",
-    "Barrell",
-    "Vattel",
-    "Byrnes",
-    "Backbay",
-    "Hingham",
-    "Stowell",
-    "Skjoldabrand",
-    "Sturgis",
-    "Griffiths's",
-    "Gasp\u00e9",
-    "Asso",
-    "moveable",
-    "pannels",
-    "Dropt",
-    "Charnock",
-    "Toucey",
-    "Griffiths",
-    "caviare",
-    "Sul",
-    "Weeden",
-    "Wolvin",
-    "barques",
-    "shallop",
-    "Anamaboe",
-    "doeing",
-    "Mayhew",
-    "dismasted",
-    "stupefier",
-    "Limon",
-    "Peyster",
-    "bbs",
-    "fatt",
-    "Rasieres",
-    "Zee",
-    "re\u00ebxporting",
-    "unplaned",
-    "b\u00eache",
-    "Colden's",
     "Cl\u00e6s",
-    "Jumeaux",
-    "Janeiro",
-    "Handyside",
-    "Holyhead",
-    "Bencoolen",
-    "negroes",
     "Orkneys",
-    "firkins",
-    "Elizabethtown",
-    "Grinnell",
-    "alowe",
-    "Selleck's",
-    "Lenox",
+    "Norwood",
+    "Hussey",
+    "Dropt",
+    "pannels",
+    "stokehole",
+    "Aspinwall",
+    "Magee",
+    "west'ard",
+    "Sturgis",
+    "Homans",
+    "shipmasters",
+    "rundlet",
+    "Honour",
+    "Brunel",
+    "wors",
     "Naumkeag",
     "piceses",
-    "Roscius",
-    "unwarmed",
-    "Drempt",
+    "parcells",
     "Eustatia",
-    "Eckford",
-    "favour",
-    "Magee",
-    "Warr",
-    "Lockport",
-    "Arago",
-    "Margent",
-    "Digby",
-    "Athearn",
-    "ankers",
-    "Charnock's",
-    "Assiento",
-    "spermaceti",
-    "al",
-    "Geddes",
-    "Mauretania",
-    "despatched",
-    "arivel",
-    "Keasbey's",
-    "Astr\u00e6",
-    "Tierces",
-    "Aspinwall",
-    "Fuera",
-    "Manby",
-    "Mercil",
     "wich",
-    "sess",
-    "Lascars",
-    "Maio",
-    "Goode's",
-    "meete",
-    "broake",
-    "Wethersfield",
-    "hapen",
-    "Leipsic",
-    "noe",
-    "tierces",
-    "Sterre",
-    "barque",
-    "rerigging",
-    "Jacketts",
-    "smale",
-    "Maidstone",
-    "unmingled",
-    "Maisi",
-    "Engld",
-    "Sess",
-    "afeard",
-    "defence",
-    "Kennebunk",
-    "XXIII",
-    "resistence",
-    "Plata",
-    "Silsbee",
-    "Carmarthen",
-    "Aury",
-    "hhds",
-    "Coppin",
-    "anamaboe",
-    "acqt",
-    "Montegue",
-    "Dodsley's",
-    "CLERMONT",
-    "Samuels",
-    "chanty",
-    "onley",
-    "Crowninshield",
-    "Jeffries",
-    "Barbadoes",
-    "Carnes",
-    "Barataria",
-    "Fuca",
-    "Chagres",
-    "west'ard",
-    "Harbour",
-    "rundlet",
-    "helth",
+    "Rainey's",
     "plough",
-    "Piscataqua",
+    "SYREN",
+    "Honduranians",
+    "onley",
+    "Goode's",
+    "fouellishly",
+    "boatsteerer",
+    "Jacketts",
+    "Skjoldabrand",
+    "re\u00ebxport",
+    "shipmaster",
+    "Monhegan",
+    "Hempsted",
+    "Collins's",
+    "Brillante",
+    "Queenstown",
+    "Sess",
+    "interoceanic",
+    "maligabar",
+    "McCulloch",
+    "aft",
+    "spritsail",
+    "Montauk",
+    "cocket",
+    "alowe",
+    "goodlie",
+    "Weeden",
+    "Folger",
+    "Tierces",
+    "traid",
+    "moveable",
+    "re\u00ebxporting",
+    "Ayres",
+    "Creasy",
+    "Gilman",
+    "Chaytor",
+    "Stonington",
+    "Griffiths's",
+    "yeere",
+    "scooner",
+    "Zee",
+    "Chex",
+    "resistence",
+    "Toucey",
+    "Alicant",
+    "spoliations",
+    "Handyside",
+    "osnaburghs",
+    "Gilpin",
+    "Kennebunk",
+    "Borland",
+    "digged",
+    "Chidley",
+    "Dumaresque",
+    "Selleck's",
+    "Lenox",
+    "Grande",
+    "Roscius",
+    "Dod",
+    "lateen",
+    "SPOLIATIONS",
+    "Swet",
+    "Thurots",
+    "whael",
+    "justiciaries",
+    "Athearn",
+    "Batavia",
+    "Harbour",
+    "Musketts",
+    "despatch",
+    "Barataria",
+    "shallops",
+    "Henlopen",
+    "Mauretania",
+    "coamings",
+    "Esopus",
+    "Hallett",
+    "Elizabethtown",
+    "Nassaw",
+    "23d",
+    "pounders",
+    "Hawkesbury",
+    "Holdredge",
+    "XXIII",
+    "Tampico",
+    "Backbay",
+    "22d",
+    "Rhode",
+    "Eisha",
+    "Selleck",
+    "whalemen",
+    "Dingley",
+    "Manby",
+    "Lorde",
+    "spencer",
+    "squaly",
+    "Dirigo",
+    "Vandervoort",
+    "Louisburg",
+    "ton",
+    "Bashaw",
+    "Arbuthnot",
+    "queensware",
+    "Hasket",
+    "Howland's",
+    "b\u00eache",
+    "Astr\u00e6",
+    "Bilboa",
+    "broake",
+    "helth",
+    "Leogane",
+    "Generall",
+    "Dundas",
+    "Byrnes",
+    "keelsons",
+    "Casco",
+    "parte",
+    "despatched",
+    "Mercil",
+    "barque",
+    "smale",
+    "unsuccess",
+    "XVId",
+    "marvellous",
+    "beautifullest",
+    "Quar",
+    "Butman",
+    "Algerines",
+    "Lascars",
+    "Fonseca",
+    "Digby",
+    "coastwise",
+    "Algesiras",
+    "Howqua",
+    "outsail",
+    "Maidstone",
+    "arivel",
+    "Coppin",
+    "Howqua's",
+    "anamaboe",
+    "IIIs",
+    "Demologos",
+    "Eustia",
+    "yt",
+    "galliot",
+    "boomers",
+    "hhds",
+    "unequalled",
+    "Thetis",
+    "Carnes",
+    "Sterre",
+    "Cortlandt",
+    "Arago",
+    "Stowell",
+    "unmingled",
+    "Ambrister",
+    "defence",
+    "vitall",
+    "Dey",
+    "Bellomont",
+    "gould",
+    "McIver",
+    "Eastburn's",
+    "6d",
+    "Namquit",
+    "co\u00f6perate",
+    "farr",
+    "Leipsic",
+    "Symington",
+    "Maidstone's",
+    "cheafe",
+    "Nav",
+    "programme",
+    "Gaspee",
+    "Maio",
+    "Samuels",
+    "Crowninshield",
+    "Porto",
+    "shap'd",
+    "Dudingston",
+    "barques",
+    "Sul",
+    "strick",
+    "Algerine",
+    "dwts",
+    "ankers",
+    "Fuera",
     "Aldrichs",
-    "stokehole"
+    "staves",
+    "Coytemore",
+    "Atrato",
+    "Peele",
+    "d'equipage",
+    "Nootka",
+    "Fayal",
+    "libelled",
+    "unstormy",
+    "Gravesend",
+    "axe",
+    "repassing",
+    "Moston",
+    "blaime",
+    "re\u00ebxported",
+    "Gasp\u00e9",
+    "Creesy",
+    "dismasted",
+    "Maisi",
+    "Teriffa",
+    "Marblehead",
+    "firkins",
+    "Tarragona",
+    "rerigging",
+    "Hassan",
+    "Berwick",
+    "Haraden",
+    "Hollingworth",
+    "Janeiro",
+    "negroes",
+    "Humbolt",
+    "Buenos",
+    "Holyhead",
+    "Troughton",
+    "Niles's",
+    "meete",
+    "untrammelled",
+    "fibres",
+    "Charnock's",
+    "Anamaboe",
+    "Engld",
+    "Salmagundi",
+    "travelling",
+    "Bedford",
+    "Hobomoc",
+    "Picor",
+    "marino",
+    "Winsor's",
+    "Griffiths",
+    "practised",
+    "Drempt",
+    "equalled",
+    "Gomer",
+    "Keasbey's",
+    "impowers",
+    "stupefier",
+    "Stede",
+    "unstinted",
+    "Tappan",
+    "centres",
+    "Tercira",
+    "spritsails",
+    "pitchpoled",
+    "acqt",
+    "de",
+    "Limon",
+    "Crozet",
+    "Serv",
+    "Hughson's",
+    "Preble",
+    "Mayhew",
+    "Wethersfield",
+    "tite",
+    "Eckford",
+    "Barrell",
+    "Fuca",
+    "Ph\u0153nix",
+    "Bellisaurius",
+    "Grinnell",
+    "Syren",
+    "Truro",
+    "Hersilia",
+    "od",
+    "Blackbeard",
+    "traveller",
+    "Colden's",
+    "al",
+    "lateener",
+    "councellors",
+    "draught",
+    "sailormen",
+    "Sargeant",
+    "Newburgh",
+    "Warr",
+    "greate",
+    "scoon",
+    "Doon",
+    "annum",
+    "fustic",
+    "poundings",
+    "Blocx",
+    "Guave",
+    "Charlestown",
+    "li",
+    "Codman",
+    "risque",
+    "unwarmed",
+    "Sloo",
+    "Lachlan",
+    "Grimble",
+    "Millar",
+    "Clermont's",
+    "Pittsburg",
+    "Clermont",
+    "Chagres",
+    "Rasieres",
+    "spente",
+    "Eastburn",
+    "Carmarthen",
+    "Pepperrell",
+    "Puerrydon",
+    "CLERMONT",
+    "Morro",
+    "lansed",
+    "Havre",
+    "Crozet's",
+    "Birkenhead",
+    "Geddes",
+    "travelled",
+    "Montegue",
+    "Regla",
+    "Breard",
+    "Englanders",
+    "sess",
+    "App",
+    "Boardman",
+    "Impowered",
+    "travellers",
+    "Norte",
+    "Rumsey",
+    "logwood",
+    "Derbys",
+    "5ly",
+    "Allaire",
+    "petre",
+    "Piscataqua",
+    "Junius",
+    "Medford",
+    "cambrick",
+    "Dodsley's",
+    "Fickett",
+    "caviare",
+    "Levanter",
+    "Wolvin",
+    "Ile",
+    "doeing",
+    "Dalwinston",
+    "gentlemanlike",
+    "del",
+    "hapen",
+    "Chaytor's",
+    "Jeffries's",
+    "chanty",
+    "Jeffries",
+    "modelled",
+    "roadstead",
+    "marline",
+    "Peyster",
+    "Affrica",
+    "Assiento",
+    "keelless",
+    "Vattel",
+    "Manly's",
+    "Ericsson",
+    "Inman",
+    "commandante",
+    "Asso",
+    "noe",
+    "spermaceti",
+    "re\u00ebnforced",
+    "instalments",
+    "scoons"
   ],
-  "NOTES": "Page 68:  Affrica may be a typo for Africa\nPage 92: Bilboa may be a typo for Bilbao\nPage 124: resistence may be a typo for reistance\nPage 218: pannels should possibly be panels\n\n\n\nU.S.\nR.N.\nH.P.\n",
-  "DOCHASH": {
-    "<BYTE>": "a3  66  d4  dc  2b  ac  67  22  0d  6c  34  5f  a6  f1  3a  85  92  62  38  99 "
-  },
   "EDITHIGHLIGHTS": [
     true,
     true
   ],
-  "EDITSIZE": 13,
-  "BOOKMARKS": [],
-  "BADWORDS": [],
-  "BOOKINFO": {
-    "Title": "The Story of the American Merchant Marine",
-    "Publication date": "1910",
-    "Author": "John R. Spears",
-    "Language": "English"
+  "FIND_UB": {
+    "6": {
+      "all": false,
+      "label": "pseps",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=\\n)-+File:\\s+([^\\.]+)\\.png-+((\\\\[^\\\\\\n]+)+\\\\)?-*?\\n",
+      "case": false,
+      "rep2": "\\n",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": true,
+      "tooltip": null
+    },
+    "15": {
+      "all": false,
+      "label": "not Latin-1",
+      "rep3": "",
+      "andprior": false,
+      "find": "[^\\p{InBasic_Latin}\\p{InLatin-1_Supplement}]",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find letters not in the Latin-1 set"
+    },
+    "19": {
+      "all": false,
+      "label": "1 empty line",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=[^\\n]\\n)\\n(?=[^\\n])",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": null
+    },
+    "10": {
+      "all": false,
+      "label": "unbalanced",
+      "rep3": "",
+      "andprior": false,
+      "find": "(\\([^)]+\\()|(\\[[^\\]]+\\[)|(\\{[^}]+\\{)|(<[^>]+<)",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find open-bracket that is not followed by closing bracket"
+    },
+    "18": {
+      "all": null,
+      "label": "line>75",
+      "rep3": null,
+      "andprior": null,
+      "find": "[^\\n]{76,}",
+      "case": null,
+      "rep2": null,
+      "word": null,
+      "regex": true,
+      "rep1": null,
+      "andnext": null,
+      "tooltip": "Find line longer than 75 characters"
+    },
+    "7": {
+      "all": false,
+      "label": "faux-hy",
+      "rep3": "",
+      "andprior": false,
+      "find": "[\\u02d7\\u2012\\u2013\\u2014\\u2053\\u2212\\ufe58\\ufe63\\uff0d]+",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "-",
+      "andnext": false,
+      "tooltip": "Find hyphen-shaped Unicode characters other than ascii hyphen"
+    },
+    "23": {
+      "all": false,
+      "label": "5+ empty lines",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=[^\\n]\\n)\\n{5,}",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": null
+    },
+    "8": {
+      "all": null,
+      "label": "spacep",
+      "rep3": null,
+      "andprior": null,
+      "find": "(\\s[\\.,;:?!\\-])|(-\\s)",
+      "case": false,
+      "rep2": null,
+      "word": null,
+      "regex": true,
+      "rep1": null,
+      "andnext": null,
+      "tooltip": "Whitespace preceding punctuation or after hyphen"
+    },
+    "21": {
+      "all": false,
+      "label": "3 empty lines",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=[^\\n]\\n)\\n\\n\\n(?=[^\\n])",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": null
+    },
+    "13": {
+      "all": false,
+      "label": "1-letter",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=\\n)[^\\n](?=\\n)",
+      "case": true,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find a one-letter line"
+    },
+    "11": {
+      "all": false,
+      "label": "dota",
+      "rep3": "",
+      "andprior": false,
+      "find": "\\.\\s*\\p{Lowercase_Letter}",
+      "case": true,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find period, space, lowercase"
+    },
+    "12": {
+      "all": false,
+      "label": "commaA",
+      "rep3": "",
+      "andprior": false,
+      "find": ",\\s*\\p{Uppercase_Letter}",
+      "case": true,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find comma, space, uppercase (often valid)"
+    },
+    "20": {
+      "all": false,
+      "label": "2 empty lines",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=[^\\n]\\n)\\n\\n(?=[^\\n])",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": null
+    },
+    "9": {
+      "all": null,
+      "label": "-01-",
+      "rep3": null,
+      "andprior": null,
+      "find": "\\W[01]\\W",
+      "case": null,
+      "rep2": null,
+      "word": null,
+      "regex": true,
+      "rep1": null,
+      "andnext": null,
+      "tooltip": "Standalone 0 or 1"
+    },
+    "17": {
+      "all": false,
+      "label": "para-no-p",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=\\w[\"'\u00bb]?)\\n\\n",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find end of paragraph without punctuation"
+    },
+    "16": {
+      "all": false,
+      "label": "not 7-bit",
+      "rep3": "",
+      "andprior": false,
+      "find": "[^\\p{InBasic_Latin}]",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Find letters not in the 7-bit ascii set"
+    },
+    "22": {
+      "all": false,
+      "label": "4 empty lines",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=[^\\n]\\n)\\n\\n\\n\\n(?=[^\\n])",
+      "case": false,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": null
+    },
+    "14": {
+      "all": false,
+      "label": "lcpara",
+      "rep3": "",
+      "andprior": false,
+      "find": "(?<=\\n\\n)\\p{Lowercase_Letter}",
+      "case": true,
+      "rep2": "",
+      "word": false,
+      "regex": true,
+      "rep1": "",
+      "andnext": false,
+      "tooltip": "Paragraph (text after two newlines) starts with lowercase"
+    }
   },
+  "FOOTNOTES": [
+    [
+      74407,
+      74408,
+      505082,
+      505351
+    ],
+    [
+      92534,
+      92535,
+      505353,
+      505466
+    ],
+    [
+      144362,
+      144363,
+      505468,
+      505561
+    ],
+    [
+      146233,
+      146234,
+      505563,
+      506717
+    ],
+    [
+      157798,
+      157799,
+      506719,
+      508041
+    ],
+    [
+      236539,
+      236540,
+      508043,
+      508384
+    ],
+    [
+      328713,
+      328714,
+      508386,
+      508872
+    ]
+  ],
+  "BOOKINFO": {
+    "Author": "John R. Spears",
+    "Language": "English",
+    "Publication date": "1910",
+    "Title": "The Story of the American Merchant Marine"
+  },
+  "DOCHASH": {
+    "<BYTE>": "9b  21  9e  d6  b4  db  02  a0  59  d0  31  bd  a2  f0  30  f6  53  3c  ff  cc "
+  },
+  "EDITSIZE": 13,
+  "SCANNOLIST": [
+    "",
+    "hie",
+    "tiling",
+    "clay",
+    "tho",
+    "car",
+    "home",
+    "tile",
+    "modern",
+    "111",
+    "cm",
+    "comer",
+    "Right",
+    "corner",
+    "snore",
+    "alien",
+    "east",
+    "Rattle",
+    "vas",
+    "clown",
+    "right",
+    "gaming",
+    "wails",
+    "noted",
+    "eves",
+    "clays",
+    "train",
+    "Ms",
+    "cars",
+    "hit",
+    "hi",
+    "alt",
+    "ah",
+    "ho",
+    "Ill",
+    "tight",
+    "riot",
+    "CHARTER",
+    "carriage",
+    "loth",
+    "ease",
+    "fan",
+    "ray",
+    "FOB",
+    "CHATTER",
+    "ABE",
+    "m",
+    "dose",
+    "cur",
+    "die",
+    "her",
+    "bum",
+    "fanner",
+    "arc",
+    "tier",
+    "lie",
+    "band",
+    "hag",
+    "fie",
+    "mail",
+    "ball",
+    "tum",
+    "fingers",
+    "cast",
+    "10th",
+    "hen",
+    "borne",
+    "doth",
+    "bo",
+    "bat",
+    "bear",
+    "tinder",
+    "carnage",
+    "bar",
+    "rioted",
+    "hand",
+    "FOE",
+    "bumbled",
+    "have",
+    "time",
+    "carne",
+    "mall",
+    "hall",
+    "ha",
+    "cheek",
+    "nave",
+    "yon",
+    "lime",
+    "haying",
+    "OP",
+    "u",
+    "1",
+    "Prance",
+    "eve",
+    "beard",
+    "Ac",
+    "bit",
+    "case",
+    "fee",
+    "fiat",
+    "arid",
+    "head",
+    "been",
+    "cases",
+    "heads",
+    "eases",
+    "coining",
+    "boon",
+    "wen",
+    "he",
+    "fax",
+    "lo",
+    "cither",
+    "cat",
+    "tip",
+    "anal",
+    "check",
+    "spam",
+    "bad",
+    "dram",
+    "beads",
+    "signer",
+    "ears",
+    "ringers",
+    "day",
+    "docs",
+    "ail",
+    "clone",
+    "hail",
+    "Eight",
+    "far",
+    "tune",
+    "thing",
+    "hare",
+    "humbled",
+    "eon",
+    "tor",
+    "ether",
+    "meat",
+    "eyes",
+    "away",
+    "Hiss",
+    "fail",
+    "hut",
+    "eat",
+    "gram",
+    "fall",
+    "bow",
+    "bur",
+    "hear",
+    "wag",
+    "fir",
+    "be",
+    "guru",
+    "ment",
+    "modem",
+    "bag",
+    "sonic",
+    "tram",
+    "tare",
+    "ringer",
+    "tie",
+    "doer"
+  ],
+  "CHARCENSUS": [
+    [
+      " ",
+      79291
+    ],
+    [
+      "!",
+      27
+    ],
+    [
+      "\"",
+      1148
+    ],
+    [
+      "$",
+      157
+    ],
+    [
+      "&",
+      34
+    ],
+    [
+      "'",
+      255
+    ],
+    [
+      "(",
+      248
+    ],
+    [
+      ")",
+      248
+    ],
+    [
+      "*",
+      16
+    ],
+    [
+      ",",
+      5996
+    ],
+    [
+      "-",
+      1171
+    ],
+    [
+      ".",
+      3770
+    ],
+    [
+      "/",
+      701
+    ],
+    [
+      "0",
+      1178
+    ],
+    [
+      "1",
+      1261
+    ],
+    [
+      "2",
+      564
+    ],
+    [
+      "3",
+      380
+    ],
+    [
+      "4",
+      356
+    ],
+    [
+      "5",
+      412
+    ],
+    [
+      "6",
+      350
+    ],
+    [
+      "7",
+      375
+    ],
+    [
+      "8",
+      640
+    ],
+    [
+      "9",
+      313
+    ],
+    [
+      ":",
+      118
+    ],
+    [
+      ";",
+      333
+    ],
+    [
+      "<",
+      1368
+    ],
+    [
+      ">",
+      1368
+    ],
+    [
+      "?",
+      23
+    ],
+    [
+      "A",
+      1327
+    ],
+    [
+      "B",
+      785
+    ],
+    [
+      "C",
+      930
+    ],
+    [
+      "D",
+      252
+    ],
+    [
+      "E",
+      606
+    ],
+    [
+      "F",
+      422
+    ],
+    [
+      "G",
+      282
+    ],
+    [
+      "H",
+      438
+    ],
+    [
+      "I",
+      935
+    ],
+    [
+      "J",
+      213
+    ],
+    [
+      "K",
+      47
+    ],
+    [
+      "L",
+      346
+    ],
+    [
+      "M",
+      479
+    ],
+    [
+      "N",
+      585
+    ],
+    [
+      "O",
+      271
+    ],
+    [
+      "P",
+      397
+    ],
+    [
+      "Q",
+      13
+    ],
+    [
+      "R",
+      349
+    ],
+    [
+      "S",
+      885
+    ],
+    [
+      "T",
+      1343
+    ],
+    [
+      "U",
+      153
+    ],
+    [
+      "V",
+      100
+    ],
+    [
+      "W",
+      476
+    ],
+    [
+      "X",
+      21
+    ],
+    [
+      "Y",
+      204
+    ],
+    [
+      "Z",
+      2
+    ],
+    [
+      "[",
+      43
+    ],
+    [
+      "]",
+      43
+    ],
+    [
+      "a",
+      31606
+    ],
+    [
+      "b",
+      5239
+    ],
+    [
+      "c",
+      10698
+    ],
+    [
+      "d",
+      15016
+    ],
+    [
+      "e",
+      50865
+    ],
+    [
+      "f",
+      9930
+    ],
+    [
+      "g",
+      6967
+    ],
+    [
+      "h",
+      23146
+    ],
+    [
+      "i",
+      26792
+    ],
+    [
+      "j",
+      197
+    ],
+    [
+      "k",
+      1799
+    ],
+    [
+      "l",
+      13656
+    ],
+    [
+      "m",
+      8688
+    ],
+    [
+      "n",
+      27666
+    ],
+    [
+      "o",
+      28653
+    ],
+    [
+      "p",
+      8319
+    ],
+    [
+      "q",
+      250
+    ],
+    [
+      "r",
+      24974
+    ],
+    [
+      "s",
+      25521
+    ],
+    [
+      "t",
+      36328
+    ],
+    [
+      "u",
+      9127
+    ],
+    [
+      "v",
+      3644
+    ],
+    [
+      "w",
+      8243
+    ],
+    [
+      "x",
+      593
+    ],
+    [
+      "y",
+      5604
+    ],
+    [
+      "z",
+      278
+    ],
+    [
+      "\u00a3",
+      62
+    ],
+    [
+      "\u00b0",
+      1
+    ],
+    [
+      "\u00bd",
+      11
+    ],
+    [
+      "\u00be",
+      2
+    ],
+    [
+      "\u00d7",
+      2
+    ],
+    [
+      "\u00e6",
+      10
+    ],
+    [
+      "\u00e9",
+      4
+    ],
+    [
+      "\u00ea",
+      1
+    ],
+    [
+      "\u00eb",
+      5
+    ],
+    [
+      "\u00f4",
+      2
+    ],
+    [
+      "\u00f6",
+      2
+    ],
+    [
+      "\u0153",
+      2
+    ],
+    [
+      "\u2032",
+      1
+    ],
+    [
+      "\u2153",
+      1
+    ],
+    [
+      "\u2154",
+      1
+    ]
+  ],
+  "MAINDICT": "en_US",
   "PAGETABLE": [
     [
       1,
@@ -541,7 +1353,7 @@
       2
     ],
     [
-      254,
+      258,
       "003",
       "\\kayaregee\\Tantalo\\Kipling\\Archie\\cmspence",
       2,
@@ -549,7 +1361,7 @@
       1
     ],
     [
-      460,
+      464,
       "004",
       "\\mdmcdaniel\\Tantalo\\Kipling\\Archie\\cmspence",
       2,
@@ -557,7 +1369,7 @@
       2
     ],
     [
-      652,
+      660,
       "005",
       "\\mdmcdaniel\\Tantalo\\Kipling\\Archie\\cmspence",
       2,
@@ -565,7 +1377,7 @@
       3
     ],
     [
-      1932,
+      1940,
       "006",
       "\\kbarry\\Tantalo\\Kipling\\Archie\\cmspence",
       2,
@@ -573,7 +1385,7 @@
       1
     ],
     [
-      1932,
+      1940,
       "007",
       "\\kbarry\\Tantalo\\Kipling\\Archie\\cmspence",
       2,
@@ -581,7 +1393,7 @@
       1
     ],
     [
-      3555,
+      3563,
       "008",
       "\\kbarry\\Tantalo\\Kipling\\Archie\\cmspence",
       2,
@@ -589,7 +1401,7 @@
       2
     ],
     [
-      3555,
+      3563,
       "009",
       "\\kbarry\\Tantalo\\Kipling\\Archie\\cmspence",
       1,
@@ -597,7 +1409,7 @@
       1
     ],
     [
-      4593,
+      4601,
       "010",
       "\\kbarry\\Sedy\\Kipling\\Archie\\cmspence",
       0,
@@ -605,7 +1417,7 @@
       2
     ],
     [
-      6110,
+      6118,
       "011",
       "\\kbarry\\Sedy\\Kipling\\readbueno\\cmspence",
       0,
@@ -613,7 +1425,7 @@
       3
     ],
     [
-      7677,
+      7685,
       "012",
       "\\kbarry\\Sedy\\Kipling\\readbueno\\K7UQT",
       0,
@@ -621,7 +1433,7 @@
       4
     ],
     [
-      9189,
+      9197,
       "013",
       "\\kbarry\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -629,7 +1441,7 @@
       5
     ],
     [
-      10747,
+      10755,
       "014",
       "\\kbarry\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -637,7 +1449,7 @@
       6
     ],
     [
-      12343,
+      12351,
       "015",
       "\\kbarry\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -645,7 +1457,7 @@
       7
     ],
     [
-      13819,
+      13827,
       "016",
       "\\kbarry\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -653,7 +1465,7 @@
       8
     ],
     [
-      15343,
+      15351,
       "017",
       "\\FrankenJoe\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -661,7 +1473,7 @@
       9
     ],
     [
-      16874,
+      16882,
       "018",
       "\\FrankenJoe\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -669,7 +1481,7 @@
       10
     ],
     [
-      18365,
+      18373,
       "019",
       "\\FrankenJoe\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -677,7 +1489,7 @@
       11
     ],
     [
-      19867,
+      19875,
       "020",
       "\\libraryfan\\Sedy\\alohacurl\\readbueno\\K7UQT",
       0,
@@ -685,7 +1497,7 @@
       12
     ],
     [
-      21390,
+      21398,
       "021",
       "\\libraryfan\\Sedy\\astur\\readbueno\\Close@Hand",
       0,
@@ -693,7 +1505,7 @@
       13
     ],
     [
-      22893,
+      22901,
       "022",
       "\\libraryfan\\Sedy\\vstoll\\readbueno\\Close@Hand",
       0,
@@ -701,7 +1513,7 @@
       14
     ],
     [
-      24385,
+      24393,
       "023",
       "\\libraryfan\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -709,7 +1521,7 @@
       15
     ],
     [
-      25822,
+      25830,
       "024",
       "\\libraryfan\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -717,7 +1529,7 @@
       16
     ],
     [
-      27227,
+      27235,
       "025",
       "\\libraryfan\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -725,7 +1537,7 @@
       17
     ],
     [
-      28704,
+      28712,
       "026",
       "\\libraryfan\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -733,7 +1545,7 @@
       18
     ],
     [
-      30166,
+      30174,
       "027",
       "\\libraryfan\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -741,7 +1553,7 @@
       19
     ],
     [
-      31599,
+      31607,
       "028",
       "\\libraryfan\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -749,7 +1561,7 @@
       20
     ],
     [
-      33112,
+      33120,
       "029",
       "\\readbueno\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -757,7 +1569,7 @@
       21
     ],
     [
-      34558,
+      34566,
       "030",
       "\\readbueno\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -765,7 +1577,7 @@
       22
     ],
     [
-      35677,
+      35685,
       "031",
       "\\readbueno\\Sedy\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -773,7 +1585,7 @@
       23
     ],
     [
-      37191,
+      37199,
       "032",
       "\\readbueno\\jpo\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -781,7 +1593,7 @@
       24
     ],
     [
-      38598,
+      38606,
       "033",
       "\\readbueno\\jpo\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -789,7 +1601,7 @@
       25
     ],
     [
-      40101,
+      40109,
       "034",
       "\\readbueno\\keckrich\\oldguyrice03\\readbueno\\fvandrog",
       0,
@@ -797,7 +1609,7 @@
       26
     ],
     [
-      41635,
+      41643,
       "035",
       "\\readbueno\\keckrich\\WebRover\\readbueno\\fvandrog",
       0,
@@ -805,7 +1617,7 @@
       27
     ],
     [
-      43115,
+      43123,
       "036",
       "\\readbueno\\keckrich\\WebRover\\readbueno\\fvandrog",
       0,
@@ -813,7 +1625,7 @@
       28
     ],
     [
-      44601,
+      44609,
       "037",
       "\\readbueno\\keckrich\\WebRover\\deep proof\\fvandrog",
       0,
@@ -821,7 +1633,7 @@
       29
     ],
     [
-      46098,
+      46106,
       "038",
       "\\readbueno\\keckrich\\WebRover\\deep proof\\fvandrog",
       0,
@@ -829,7 +1641,7 @@
       30
     ],
     [
-      47593,
+      47601,
       "039",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -837,7 +1649,7 @@
       31
     ],
     [
-      49064,
+      49072,
       "040",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -845,7 +1657,7 @@
       32
     ],
     [
-      50605,
+      50617,
       "041",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -853,7 +1665,7 @@
       33
     ],
     [
-      52143,
+      52155,
       "042",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -861,7 +1673,7 @@
       34
     ],
     [
-      53663,
+      53675,
       "043",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -869,7 +1681,7 @@
       35
     ],
     [
-      55214,
+      55226,
       "044",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -877,7 +1689,7 @@
       36
     ],
     [
-      56736,
+      56748,
       "045",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -885,7 +1697,7 @@
       37
     ],
     [
-      58291,
+      58303,
       "046",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -893,7 +1705,7 @@
       38
     ],
     [
-      59844,
+      59856,
       "047",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       2,
@@ -901,7 +1713,7 @@
       39
     ],
     [
-      59970,
+      59982,
       "048",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       2,
@@ -909,7 +1721,7 @@
       40
     ],
     [
-      59970,
+      59982,
       "049",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -917,7 +1729,7 @@
       39
     ],
     [
-      60946,
+      60958,
       "050",
       "\\readbueno\\keckrich\\WebRover\\keckrich\\fvandrog",
       0,
@@ -925,7 +1737,7 @@
       40
     ],
     [
-      62102,
+      62114,
       "051",
       "\\readbueno\\keckrich\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -933,7 +1745,7 @@
       41
     ],
     [
-      63537,
+      63549,
       "052",
       "\\readbueno\\keckrich\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -941,7 +1753,7 @@
       42
     ],
     [
-      65083,
+      65099,
       "053",
       "\\libraryfan\\keckrich\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -949,7 +1761,7 @@
       43
     ],
     [
-      66527,
+      66543,
       "054",
       "\\libraryfan\\keckrich\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -957,7 +1769,7 @@
       44
     ],
     [
-      67999,
+      68015,
       "055",
       "\\libraryfan\\keckrich\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -965,7 +1777,7 @@
       45
     ],
     [
-      69490,
+      69506,
       "056",
       "\\libraryfan\\LucyLaurens\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -973,7 +1785,7 @@
       46
     ],
     [
-      71024,
+      71040,
       "057",
       "\\libraryfan\\AKoz\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -981,7 +1793,7 @@
       47
     ],
     [
-      72568,
+      72584,
       "058",
       "\\libraryfan\\oldguyrice03\\WebRover\\keckrich\\fvandrog",
       0,
@@ -989,7 +1801,7 @@
       48
     ],
     [
-      74005,
+      74021,
       "059",
       "\\libraryfan\\AKoz\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -997,7 +1809,7 @@
       49
     ],
     [
-      75372,
+      75388,
       "060",
       "\\oldguyrice03\\AKoz\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -1005,7 +1817,7 @@
       50
     ],
     [
-      76915,
+      76931,
       "061",
       "\\oldguyrice03\\AKoz\\WebRover\\keckrich\\fvandrog",
       0,
@@ -1013,7 +1825,7 @@
       51
     ],
     [
-      78358,
+      78374,
       "062",
       "\\oldguyrice03\\AKoz\\oldguyrice03\\keckrich\\fvandrog",
       0,
@@ -1021,7 +1833,7 @@
       52
     ],
     [
-      79838,
+      79854,
       "063",
       "\\oldguyrice03\\AKoz\\WebRover\\keckrich\\fvandrog",
       0,
@@ -1029,7 +1841,7 @@
       53
     ],
     [
-      81324,
+      81340,
       "064",
       "\\Hobo-04\\AKoz\\WebRover\\Archie\\fvandrog",
       0,
@@ -1037,7 +1849,7 @@
       54
     ],
     [
-      82847,
+      82863,
       "065",
       "\\Hobo-04\\AKoz\\WebRover\\Archie\\fvandrog",
       0,
@@ -1045,7 +1857,7 @@
       55
     ],
     [
-      84339,
+      84355,
       "066",
       "\\oldguyrice03\\LindyGal\\WebRover\\Archie\\fvandrog",
       0,
@@ -1053,7 +1865,7 @@
       56
     ],
     [
-      85901,
+      85917,
       "067",
       "\\oldguyrice03\\LindyGal\\WebRover\\Archie\\fvandrog",
       0,
@@ -1061,7 +1873,7 @@
       57
     ],
     [
-      87492,
+      87508,
       "068",
       "\\Hobo-04\\LindyGal\\vstoll\\Archie\\fvandrog",
       0,
@@ -1069,7 +1881,7 @@
       58
     ],
     [
-      89044,
+      89060,
       "069",
       "\\oldguyrice03\\LindyGal\\WebRover\\Archie\\fvandrog",
       0,
@@ -1077,7 +1889,7 @@
       59
     ],
     [
-      90274,
+      90290,
       "070",
       "\\Hobo-04\\LindyGal\\vstoll\\Archie\\fvandrog",
       0,
@@ -1085,7 +1897,7 @@
       60
     ],
     [
-      91742,
+      91758,
       "071",
       "\\oldguyrice03\\Cosmas\\WebRover\\Archie\\fvandrog",
       0,
@@ -1093,7 +1905,7 @@
       61
     ],
     [
-      93179,
+      93195,
       "072",
       "\\oldguyrice03\\Cosmas\\WebRover\\Archie\\fvandrog",
       0,
@@ -1101,7 +1913,7 @@
       62
     ],
     [
-      94717,
+      94733,
       "073",
       "\\oldguyrice03\\Cosmas\\vstoll\\Archie\\fvandrog",
       0,
@@ -1109,7 +1921,7 @@
       63
     ],
     [
-      96247,
+      96263,
       "074",
       "\\oldguyrice03\\Cosmas\\WebRover\\rcdash15\\fvandrog",
       0,
@@ -1117,7 +1929,7 @@
       64
     ],
     [
-      97783,
+      97799,
       "075",
       "\\oldguyrice03\\Cosmas\\WebRover\\rcdash15\\fvandrog",
       0,
@@ -1125,7 +1937,7 @@
       65
     ],
     [
-      99280,
+      99304,
       "076",
       "\\oldguyrice03\\Cosmas\\WebRover\\deep proof\\fvandrog",
       0,
@@ -1133,7 +1945,7 @@
       66
     ],
     [
-      100763,
+      100803,
       "077",
       "\\perrella\\Cosmas\\WebRover\\deep proof\\fvandrog",
       0,
@@ -1141,7 +1953,7 @@
       67
     ],
     [
-      102233,
+      102297,
       "078",
       "\\Hobo-04\\Cosmas\\WebRover\\keckrich\\fvandrog",
       0,
@@ -1149,7 +1961,7 @@
       68
     ],
     [
-      103685,
+      103765,
       "079",
       "\\Hobo-04\\Cosmas\\WebRover\\keckrich\\fvandrog",
       0,
@@ -1157,7 +1969,7 @@
       69
     ],
     [
-      105190,
+      105270,
       "080",
       "\\Hobo-04\\Cosmas\\WebRover\\keckrich\\fvandrog",
       0,
@@ -1165,7 +1977,7 @@
       70
     ],
     [
-      106730,
+      106810,
       "081",
       "\\ghs\\Cosmas\\WebRover\\keckrich\\fvandrog",
       2,
@@ -1173,7 +1985,7 @@
       71
     ],
     [
-      106730,
+      106810,
       "082",
       "\\ghs\\Cosmas\\WebRover\\keckrich\\fvandrog",
       2,
@@ -1181,7 +1993,7 @@
       71
     ],
     [
-      106730,
+      106810,
       "083",
       "\\ghs\\Cosmas\\SMB\\keckrich\\fvandrog",
       0,
@@ -1189,7 +2001,7 @@
       71
     ],
     [
-      108234,
+      108314,
       "084",
       "\\ghs\\Cosmas\\SMB\\keckrich\\fvandrog",
       0,
@@ -1197,7 +2009,7 @@
       72
     ],
     [
-      109656,
+      109736,
       "085",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1205,7 +2017,7 @@
       73
     ],
     [
-      111130,
+      111210,
       "086",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1213,7 +2025,7 @@
       74
     ],
     [
-      112651,
+      112731,
       "087",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1221,7 +2033,7 @@
       75
     ],
     [
-      114106,
+      114186,
       "088",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1229,7 +2041,7 @@
       76
     ],
     [
-      115631,
+      115711,
       "089",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1237,7 +2049,7 @@
       77
     ],
     [
-      117176,
+      117256,
       "090",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1245,7 +2057,7 @@
       78
     ],
     [
-      118682,
+      118762,
       "091",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1253,7 +2065,7 @@
       79
     ],
     [
-      120172,
+      120252,
       "092",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1261,7 +2073,7 @@
       80
     ],
     [
-      121687,
+      121767,
       "093",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1269,7 +2081,7 @@
       81
     ],
     [
-      123183,
+      123263,
       "094",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1277,7 +2089,7 @@
       82
     ],
     [
-      124667,
+      124747,
       "095",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1285,7 +2097,7 @@
       83
     ],
     [
-      126201,
+      126281,
       "096",
       "\\oldguyrice03\\gcutter\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1293,7 +2105,7 @@
       84
     ],
     [
-      127148,
+      127228,
       "097",
       "\\oldguyrice03\\gcutter\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1301,7 +2113,7 @@
       85
     ],
     [
-      128361,
+      128441,
       "098",
       "\\oldguyrice03\\gcutter\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1309,7 +2121,7 @@
       86
     ],
     [
-      129756,
+      129836,
       "099",
       "\\oldguyrice03\\gcutter\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1317,7 +2129,7 @@
       87
     ],
     [
-      131300,
+      131380,
       "100",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1325,7 +2137,7 @@
       88
     ],
     [
-      132835,
+      132915,
       "101",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1333,7 +2145,7 @@
       89
     ],
     [
-      134325,
+      134405,
       "102",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\keckrich\\fvandrog",
       0,
@@ -1341,7 +2153,7 @@
       90
     ],
     [
-      135776,
+      135856,
       "103",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\deep proof\\fvandrog",
       0,
@@ -1349,7 +2161,7 @@
       91
     ],
     [
-      137298,
+      137378,
       "104",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1357,7 +2169,7 @@
       92
     ],
     [
-      138833,
+      138913,
       "105",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1365,7 +2177,7 @@
       93
     ],
     [
-      140436,
+      140516,
       "106",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1373,7 +2185,7 @@
       94
     ],
     [
-      141925,
+      142005,
       "107",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1381,7 +2193,7 @@
       95
     ],
     [
-      143423,
+      143503,
       "108",
       "\\ghs\\oldguyrice03\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1389,7 +2201,7 @@
       96
     ],
     [
-      144840,
+      144920,
       "109",
       "\\ghs\\LindyGal\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1397,7 +2209,7 @@
       97
     ],
     [
-      146202,
+      146282,
       "110",
       "\\oldguyrice03\\LindyGal\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1405,7 +2217,7 @@
       98
     ],
     [
-      147214,
+      147294,
       "111",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1413,7 +2225,7 @@
       99
     ],
     [
-      148542,
+      148622,
       "112",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1421,7 +2233,7 @@
       100
     ],
     [
-      149651,
+      149731,
       "113",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       2,
@@ -1429,7 +2241,7 @@
       102
     ],
     [
-      149651,
+      149731,
       "114",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       2,
@@ -1437,7 +2249,7 @@
       103
     ],
     [
-      149651,
+      149731,
       "115",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1445,7 +2257,7 @@
       101
     ],
     [
-      151327,
+      151407,
       "116",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1453,7 +2265,7 @@
       102
     ],
     [
-      152880,
+      152960,
       "117",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1461,7 +2273,7 @@
       103
     ],
     [
-      154404,
+      154484,
       "118",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1469,7 +2281,7 @@
       104
     ],
     [
-      155914,
+      155994,
       "119",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1477,7 +2289,7 @@
       105
     ],
     [
-      157443,
+      157523,
       "120",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1485,7 +2297,7 @@
       106
     ],
     [
-      158221,
+      158301,
       "121",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1493,7 +2305,7 @@
       107
     ],
     [
-      159760,
+      159840,
       "122",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1501,7 +2313,7 @@
       108
     ],
     [
-      161280,
+      161360,
       "123",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       2,
@@ -1509,7 +2321,7 @@
       112
     ],
     [
-      161280,
+      161360,
       "124",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       2,
@@ -1517,7 +2329,7 @@
       113
     ],
     [
-      161280,
+      161360,
       "125",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1525,7 +2337,7 @@
       109
     ],
     [
-      162961,
+      163041,
       "126",
       "\\oldguyrice03\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1533,7 +2345,7 @@
       110
     ],
     [
-      164485,
+      164577,
       "127",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1541,7 +2353,7 @@
       111
     ],
     [
-      166106,
+      166198,
       "128",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1549,7 +2361,7 @@
       112
     ],
     [
-      167695,
+      167787,
       "129",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1557,7 +2369,7 @@
       113
     ],
     [
-      169269,
+      169361,
       "130",
       "\\oldguyrice03\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1565,7 +2377,7 @@
       114
     ],
     [
-      170826,
+      170918,
       "131",
       "\\oldguyrice03\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1573,7 +2385,7 @@
       115
     ],
     [
-      172350,
+      172442,
       "132",
       "\\dharmanegara\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1581,7 +2393,7 @@
       116
     ],
     [
-      173891,
+      173983,
       "133",
       "\\oldguyrice03\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1589,7 +2401,7 @@
       117
     ],
     [
-      175410,
+      175502,
       "134",
       "\\oldguyrice03\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1597,7 +2409,7 @@
       118
     ],
     [
-      176613,
+      176705,
       "135",
       "\\oldguyrice03\\Cosmas\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1605,7 +2417,7 @@
       119
     ],
     [
-      177703,
+      177795,
       "136",
       "\\oldguyrice03\\AKoz\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1613,7 +2425,7 @@
       120
     ],
     [
-      179255,
+      179347,
       "137",
       "\\oldguyrice03\\AKoz\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1621,7 +2433,7 @@
       121
     ],
     [
-      180759,
+      180851,
       "138",
       "\\oldguyrice03\\AKoz\\oldguyrice03\\Cosmas\\fvandrog",
       0,
@@ -1629,7 +2441,7 @@
       122
     ],
     [
-      182332,
+      182424,
       "139",
       "\\oldguyrice03\\AKoz\\vstoll\\Cosmas\\fvandrog",
       2,
@@ -1637,7 +2449,7 @@
       128
     ],
     [
-      182332,
+      182424,
       "140",
       "\\oldguyrice03\\AKoz\\vstoll\\Cosmas\\fvandrog",
       2,
@@ -1645,7 +2457,7 @@
       129
     ],
     [
-      182332,
+      182424,
       "141",
       "\\oldguyrice03\\AKoz\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1653,7 +2465,7 @@
       123
     ],
     [
-      183967,
+      184059,
       "142",
       "\\oldguyrice03\\AKoz\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1661,7 +2473,7 @@
       124
     ],
     [
-      185409,
+      185501,
       "143",
       "\\oldguyrice03\\AKoz\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1669,7 +2481,7 @@
       125
     ],
     [
-      186898,
+      186990,
       "144",
       "\\oldguyrice03\\AKoz\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1677,7 +2489,7 @@
       126
     ],
     [
-      188329,
+      188421,
       "145",
       "\\oldguyrice03\\AKoz\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1685,7 +2497,7 @@
       127
     ],
     [
-      189866,
+      189958,
       "146",
       "\\oldguyrice03\\AKoz\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1693,7 +2505,7 @@
       128
     ],
     [
-      191414,
+      191506,
       "147",
       "\\oldguyrice03\\AKoz\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1701,7 +2513,7 @@
       129
     ],
     [
-      192951,
+      193043,
       "148",
       "\\oldguyrice03\\AKoz\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1709,7 +2521,7 @@
       130
     ],
     [
-      194506,
+      194598,
       "149",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1717,7 +2529,7 @@
       131
     ],
     [
-      195953,
+      196045,
       "150",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1725,7 +2537,7 @@
       132
     ],
     [
-      197148,
+      197240,
       "151",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1733,7 +2545,7 @@
       133
     ],
     [
-      198715,
+      198807,
       "152",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1741,7 +2553,7 @@
       134
     ],
     [
-      200180,
+      200272,
       "153",
       "\\LindyGal\\oldguyrice03\\gudoleboy\\Cosmas\\fvandrog",
       0,
@@ -1749,7 +2561,7 @@
       135
     ],
     [
-      201591,
+      201683,
       "154",
       "\\LindyGal\\oldguyrice03\\gudoleboy\\deep proof\\fvandrog",
       0,
@@ -1757,7 +2569,7 @@
       136
     ],
     [
-      203151,
+      203243,
       "155",
       "\\LindyGal\\oldguyrice03\\gudoleboy\\deep proof\\fvandrog",
       0,
@@ -1765,7 +2577,7 @@
       137
     ],
     [
-      204551,
+      204643,
       "156",
       "\\LindyGal\\oldguyrice03\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1773,7 +2585,7 @@
       138
     ],
     [
-      205950,
+      206042,
       "157",
       "\\LindyGal\\oldguyrice03\\WebRover\\Cosmas\\fvandrog",
       0,
@@ -1781,7 +2593,7 @@
       139
     ],
     [
-      207554,
+      207646,
       "158",
       "\\Kallisti\\Cosmas\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1789,7 +2601,7 @@
       140
     ],
     [
-      209076,
+      209168,
       "159",
       "\\Kallisti\\Cosmas\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1797,7 +2609,7 @@
       141
     ],
     [
-      210580,
+      210672,
       "160",
       "\\Kallisti\\Cosmas\\vstoll\\Cosmas\\fvandrog",
       0,
@@ -1805,7 +2617,7 @@
       142
     ],
     [
-      212174,
+      212266,
       "161",
       "\\Kallisti\\Cosmas\\vstoll\\Cosmas\\Plumy",
       0,
@@ -1813,7 +2625,7 @@
       143
     ],
     [
-      213695,
+      213787,
       "162",
       "\\Kallisti\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1821,7 +2633,7 @@
       144
     ],
     [
-      215239,
+      215331,
       "163",
       "\\Kallisti\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1829,7 +2641,7 @@
       145
     ],
     [
-      216657,
+      216749,
       "164",
       "\\FrankenJoe\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1837,7 +2649,7 @@
       146
     ],
     [
-      218097,
+      218189,
       "165",
       "\\FrankenJoe\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1845,7 +2657,7 @@
       147
     ],
     [
-      219619,
+      219711,
       "166",
       "\\FrankenJoe\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1853,7 +2665,7 @@
       148
     ],
     [
-      221176,
+      221268,
       "167",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       2,
@@ -1861,7 +2673,7 @@
       156
     ],
     [
-      221176,
+      221268,
       "168",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       2,
@@ -1869,7 +2681,7 @@
       157
     ],
     [
-      221176,
+      221268,
       "169",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1877,7 +2689,7 @@
       149
     ],
     [
-      221454,
+      221546,
       "170",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1885,7 +2697,7 @@
       150
     ],
     [
-      222588,
+      222680,
       "171",
       "\\Pucon\\oldguyrice03\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1893,7 +2705,7 @@
       151
     ],
     [
-      224109,
+      224201,
       "172",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1901,7 +2713,7 @@
       152
     ],
     [
-      225640,
+      225732,
       "173",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1909,7 +2721,7 @@
       153
     ],
     [
-      227201,
+      227293,
       "174",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1917,7 +2729,7 @@
       154
     ],
     [
-      228691,
+      228783,
       "175",
       "\\oldguyrice03\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1925,7 +2737,7 @@
       155
     ],
     [
-      230192,
+      230284,
       "176",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1933,7 +2745,7 @@
       156
     ],
     [
-      231649,
+      231745,
       "177",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1941,7 +2753,7 @@
       157
     ],
     [
-      233173,
+      233269,
       "178",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -1949,7 +2761,7 @@
       158
     ],
     [
-      234701,
+      234801,
       "179",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       2,
@@ -1957,7 +2769,7 @@
       168
     ],
     [
-      234701,
+      234801,
       "180",
       "\\Pucon\\oldguyrice03\\WebRover\\Cosmas\\Plumy",
       2,
@@ -1965,7 +2777,7 @@
       169
     ],
     [
-      234701,
+      234801,
       "181",
       "\\Pucon\\oldguyrice03\\WebRover\\deep proof\\Plumy",
       0,
@@ -1973,7 +2785,7 @@
       159
     ],
     [
-      236307,
+      236407,
       "182",
       "\\Pucon\\oldguyrice03\\WebRover\\deep proof\\Plumy",
       0,
@@ -1981,7 +2793,7 @@
       160
     ],
     [
-      237664,
+      237764,
       "183",
       "\\Pucon\\oldguyrice03\\WebRover\\paperino\\Plumy",
       0,
@@ -1989,7 +2801,7 @@
       161
     ],
     [
-      239191,
+      239291,
       "184",
       "\\Pucon\\oldguyrice03\\WebRover\\paperino\\Plumy",
       0,
@@ -1997,7 +2809,7 @@
       162
     ],
     [
-      240686,
+      240786,
       "185",
       "\\Pucon\\AKoz\\WebRover\\paperino\\Plumy",
       0,
@@ -2005,7 +2817,7 @@
       163
     ],
     [
-      242044,
+      242144,
       "186",
       "\\Pucon\\AKoz\\gudoleboy\\paperino\\Plumy",
       0,
@@ -2013,7 +2825,7 @@
       164
     ],
     [
-      243543,
+      243643,
       "187",
       "\\LindyGal\\AKoz\\gudoleboy\\paperino\\Plumy",
       0,
@@ -2021,7 +2833,7 @@
       165
     ],
     [
-      245090,
+      245190,
       "188",
       "\\LindyGal\\AKoz\\gudoleboy\\paperino\\Plumy",
       0,
@@ -2029,7 +2841,7 @@
       166
     ],
     [
-      246669,
+      246769,
       "189",
       "\\LindyGal\\AKoz\\gudoleboy\\paperino\\Plumy",
       0,
@@ -2037,7 +2849,7 @@
       167
     ],
     [
-      248209,
+      248309,
       "190",
       "\\LindyGal\\AKoz\\vstoll\\paperino\\Plumy",
       0,
@@ -2045,7 +2857,7 @@
       168
     ],
     [
-      249757,
+      249857,
       "191",
       "\\LindyGal\\Cosmas\\vstoll\\paperino\\Plumy",
       0,
@@ -2053,7 +2865,7 @@
       169
     ],
     [
-      251264,
+      251364,
       "192",
       "\\LindyGal\\Cosmas\\vstoll\\paperino\\Plumy",
       0,
@@ -2061,7 +2873,7 @@
       170
     ],
     [
-      252820,
+      252920,
       "193",
       "\\LindyGal\\Cosmas\\oldguyrice03\\paperino\\Plumy",
       0,
@@ -2069,7 +2881,7 @@
       171
     ],
     [
-      254379,
+      254483,
       "194",
       "\\LindyGal\\AKoz\\oldguyrice03\\paperino\\Plumy",
       0,
@@ -2077,7 +2889,7 @@
       172
     ],
     [
-      255883,
+      255987,
       "195",
       "\\LindyGal\\Cosmas\\oldguyrice03\\paperino\\Plumy",
       0,
@@ -2085,7 +2897,7 @@
       173
     ],
     [
-      257389,
+      257493,
       "196",
       "\\LindyGal\\Cosmas\\oldguyrice03\\paperino\\Plumy",
       0,
@@ -2093,7 +2905,7 @@
       174
     ],
     [
-      258927,
+      259031,
       "197",
       "\\Kallisti\\Cosmas\\oldguyrice03\\paperino\\Plumy",
       0,
@@ -2101,7 +2913,7 @@
       175
     ],
     [
-      260500,
+      260604,
       "198",
       "\\Hobo-04\\Cosmas\\WebRover\\paperino\\Plumy",
       0,
@@ -2109,7 +2921,7 @@
       176
     ],
     [
-      261727,
+      261831,
       "199",
       "\\Hobo-04\\Cosmas\\WebRover\\FrankenJoe\\Plumy",
       0,
@@ -2117,7 +2929,7 @@
       177
     ],
     [
-      262915,
+      263019,
       "200",
       "\\Hobo-04\\Cosmas\\oldguyrice03\\FrankenJoe\\Plumy",
       0,
@@ -2125,7 +2937,7 @@
       178
     ],
     [
-      264402,
+      264506,
       "201",
       "\\Hobo-04\\Cosmas\\astur\\FrankenJoe\\Plumy",
       0,
@@ -2133,7 +2945,7 @@
       179
     ],
     [
-      265978,
+      266082,
       "202",
       "\\Pucon\\Cosmas\\astur\\Cosmas\\Plumy",
       0,
@@ -2141,7 +2953,7 @@
       180
     ],
     [
-      267486,
+      267590,
       "203",
       "\\Pucon\\Cosmas\\astur\\Cosmas\\Plumy",
       0,
@@ -2149,7 +2961,7 @@
       181
     ],
     [
-      269013,
+      269117,
       "204",
       "\\Pucon\\Cosmas\\astur\\Cosmas\\Plumy",
       0,
@@ -2157,7 +2969,7 @@
       182
     ],
     [
-      270569,
+      270673,
       "205",
       "\\Pucon\\AKoz\\astur\\Cosmas\\Plumy",
       0,
@@ -2165,7 +2977,7 @@
       183
     ],
     [
-      272025,
+      272129,
       "206",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2173,7 +2985,7 @@
       184
     ],
     [
-      273592,
+      273696,
       "207",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2181,7 +2993,7 @@
       185
     ],
     [
-      275061,
+      275165,
       "208",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2189,7 +3001,7 @@
       186
     ],
     [
-      276606,
+      276710,
       "209",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -2197,7 +3009,7 @@
       187
     ],
     [
-      278094,
+      278198,
       "210",
       "\\Pucon\\Cosmas\\WebRover\\Cosmas\\Plumy",
       0,
@@ -2205,7 +3017,7 @@
       188
     ],
     [
-      279618,
+      279722,
       "211",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2213,7 +3025,7 @@
       189
     ],
     [
-      281094,
+      281198,
       "212",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2221,7 +3033,7 @@
       190
     ],
     [
-      282641,
+      282745,
       "213",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2229,7 +3041,7 @@
       191
     ],
     [
-      284094,
+      284198,
       "214",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2237,7 +3049,7 @@
       192
     ],
     [
-      285680,
+      285784,
       "215",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2245,7 +3057,7 @@
       193
     ],
     [
-      287217,
+      287321,
       "216",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2253,7 +3065,7 @@
       194
     ],
     [
-      288760,
+      288864,
       "217",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2261,7 +3073,7 @@
       195
     ],
     [
-      290306,
+      290410,
       "218",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2269,7 +3081,7 @@
       196
     ],
     [
-      291560,
+      291664,
       "219",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2277,7 +3089,7 @@
       197
     ],
     [
-      292784,
+      292888,
       "220",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2285,7 +3097,7 @@
       198
     ],
     [
-      294259,
+      294363,
       "221",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2293,7 +3105,7 @@
       199
     ],
     [
-      295811,
+      295915,
       "222",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2301,7 +3113,7 @@
       200
     ],
     [
-      297409,
+      297513,
       "223",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2309,7 +3121,7 @@
       201
     ],
     [
-      298905,
+      299009,
       "224",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2317,7 +3129,7 @@
       202
     ],
     [
-      300455,
+      300559,
       "225",
       "\\Pucon\\AKoz\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2325,7 +3137,7 @@
       203
     ],
     [
-      301994,
+      302098,
       "226",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2333,7 +3145,7 @@
       204
     ],
     [
-      303506,
+      303610,
       "227",
       "\\Pucon\\AKoz\\gudoleboy\\saltysam\\Plumy",
       0,
@@ -2341,7 +3153,7 @@
       205
     ],
     [
-      305088,
+      305192,
       "228",
       "\\Pucon\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2349,7 +3161,7 @@
       206
     ],
     [
-      306625,
+      306729,
       "229",
       "\\Pucon\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2357,7 +3169,7 @@
       207
     ],
     [
-      308192,
+      308296,
       "230",
       "\\Pucon\\oldguyrice03\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2365,7 +3177,7 @@
       208
     ],
     [
-      309659,
+      309763,
       "231",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2373,7 +3185,7 @@
       209
     ],
     [
-      311238,
+      311342,
       "232",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2381,7 +3193,7 @@
       210
     ],
     [
-      312771,
+      312875,
       "233",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2389,7 +3201,7 @@
       211
     ],
     [
-      314316,
+      314420,
       "234",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2397,7 +3209,7 @@
       212
     ],
     [
-      315728,
+      315832,
       "235",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2405,7 +3217,7 @@
       213
     ],
     [
-      316374,
+      316478,
       "236",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2413,7 +3225,7 @@
       214
     ],
     [
-      317501,
+      317605,
       "237",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2421,7 +3233,7 @@
       215
     ],
     [
-      319042,
+      319146,
       "238",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2429,7 +3241,7 @@
       216
     ],
     [
-      320471,
+      320591,
       "239",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2437,7 +3249,7 @@
       217
     ],
     [
-      321961,
+      322081,
       "240",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2445,7 +3257,7 @@
       218
     ],
     [
-      323447,
+      323567,
       "241",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2453,7 +3265,7 @@
       219
     ],
     [
-      325003,
+      325123,
       "242",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2461,7 +3273,7 @@
       220
     ],
     [
-      326457,
+      326581,
       "243",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       2,
@@ -2469,7 +3281,7 @@
       232
     ],
     [
-      326457,
+      326581,
       "244",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       2,
@@ -2477,7 +3289,7 @@
       233
     ],
     [
-      326457,
+      326581,
       "245",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2485,7 +3297,7 @@
       221
     ],
     [
-      328016,
+      328140,
       "246",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2493,7 +3305,7 @@
       222
     ],
     [
-      329308,
+      329436,
       "247",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       2,
@@ -2501,7 +3313,7 @@
       236
     ],
     [
-      329308,
+      329436,
       "248",
       "\\Pucon\\Cosmas\\gudoleboy\\Cosmas\\Plumy",
       2,
@@ -2509,7 +3321,7 @@
       237
     ],
     [
-      329308,
+      329436,
       "249",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2517,7 +3329,7 @@
       223
     ],
     [
-      330663,
+      330791,
       "250",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2525,7 +3337,7 @@
       224
     ],
     [
-      332166,
+      332294,
       "251",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2533,7 +3345,7 @@
       225
     ],
     [
-      333677,
+      333805,
       "252",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2541,7 +3353,7 @@
       226
     ],
     [
-      335223,
+      335351,
       "253",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2549,7 +3361,7 @@
       227
     ],
     [
-      336710,
+      336838,
       "254",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2557,7 +3369,7 @@
       228
     ],
     [
-      338189,
+      338317,
       "255",
       "\\Pucon\\Cosmas\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2565,7 +3377,7 @@
       229
     ],
     [
-      339692,
+      339820,
       "256",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2573,7 +3385,7 @@
       230
     ],
     [
-      341172,
+      341300,
       "257",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2581,7 +3393,7 @@
       231
     ],
     [
-      342729,
+      342857,
       "258",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2589,7 +3401,7 @@
       232
     ],
     [
-      344258,
+      344386,
       "259",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       2,
@@ -2597,7 +3409,7 @@
       248
     ],
     [
-      344334,
+      344462,
       "260",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       2,
@@ -2605,7 +3417,7 @@
       249
     ],
     [
-      344334,
+      344462,
       "261",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2613,7 +3425,7 @@
       233
     ],
     [
-      345963,
+      346091,
       "262",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2621,7 +3433,7 @@
       234
     ],
     [
-      347480,
+      347608,
       "263",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2629,7 +3441,7 @@
       235
     ],
     [
-      349038,
+      349166,
       "264",
       "\\Pucon\\LindyGal\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -2637,7 +3449,7 @@
       236
     ],
     [
-      350572,
+      350700,
       "265",
       "\\Pucon\\LindyGal\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2645,7 +3457,7 @@
       237
     ],
     [
-      352145,
+      352273,
       "266",
       "\\Pucon\\FrankenJoe\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2653,7 +3465,7 @@
       238
     ],
     [
-      353660,
+      353788,
       "267",
       "\\Pucon\\FrankenJoe\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2661,7 +3473,7 @@
       239
     ],
     [
-      354878,
+      355006,
       "268",
       "\\Pucon\\FrankenJoe\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2669,7 +3481,7 @@
       240
     ],
     [
-      356018,
+      356146,
       "269",
       "\\Pucon\\Hobo-04\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2677,7 +3489,7 @@
       241
     ],
     [
-      357570,
+      357698,
       "270",
       "\\Pucon\\Hobo-04\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2685,7 +3497,7 @@
       242
     ],
     [
-      359105,
+      359233,
       "271",
       "\\Pucon\\Hobo-04\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -2693,7 +3505,7 @@
       243
     ],
     [
-      360634,
+      360762,
       "272",
       "\\Pucon\\Hobo-04\\gudoleboy\\deep proof\\Plumy",
       0,
@@ -2701,7 +3513,7 @@
       244
     ],
     [
-      362138,
+      362266,
       "273",
       "\\Pucon\\Hobo-04\\gudoleboy\\deep proof\\Plumy",
       0,
@@ -2709,7 +3521,7 @@
       245
     ],
     [
-      363683,
+      363811,
       "274",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2717,7 +3529,7 @@
       246
     ],
     [
-      365195,
+      365323,
       "275",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2725,7 +3537,7 @@
       247
     ],
     [
-      366680,
+      366808,
       "276",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2733,7 +3545,7 @@
       248
     ],
     [
-      368248,
+      368376,
       "277",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2741,7 +3553,7 @@
       249
     ],
     [
-      369725,
+      369853,
       "278",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2749,7 +3561,7 @@
       250
     ],
     [
-      371229,
+      371357,
       "279",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2757,7 +3569,7 @@
       251
     ],
     [
-      372647,
+      372775,
       "280",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2765,7 +3577,7 @@
       252
     ],
     [
-      374149,
+      374277,
       "281",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2773,7 +3585,7 @@
       253
     ],
     [
-      375683,
+      375811,
       "282",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2781,7 +3593,7 @@
       254
     ],
     [
-      377366,
+      377494,
       "283",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       2,
@@ -2789,7 +3601,7 @@
       272
     ],
     [
-      377366,
+      377494,
       "284",
       "\\Pucon\\LindyGal\\gudoleboy\\AKoz\\Plumy",
       2,
@@ -2797,7 +3609,7 @@
       273
     ],
     [
-      377366,
+      377494,
       "285",
       "\\Pucon\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2805,7 +3617,7 @@
       255
     ],
     [
-      378909,
+      379037,
       "286",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2813,7 +3625,7 @@
       256
     ],
     [
-      380424,
+      380552,
       "287",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2821,7 +3633,7 @@
       257
     ],
     [
-      381502,
+      381630,
       "288",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2829,7 +3641,7 @@
       258
     ],
     [
-      382630,
+      382758,
       "289",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2837,7 +3649,7 @@
       259
     ],
     [
-      384078,
+      384206,
       "290",
       "\\Pucon\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2845,7 +3657,7 @@
       260
     ],
     [
-      385631,
+      385759,
       "291",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2853,7 +3665,7 @@
       261
     ],
     [
-      387182,
+      387310,
       "292",
       "\\Pucon\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2861,7 +3673,7 @@
       262
     ],
     [
-      388684,
+      388812,
       "293",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2869,7 +3681,7 @@
       263
     ],
     [
-      390290,
+      390418,
       "294",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2877,7 +3689,7 @@
       264
     ],
     [
-      391836,
+      391964,
       "295",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2885,7 +3697,7 @@
       265
     ],
     [
-      393332,
+      393464,
       "296",
       "\\oldguyrice03\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2893,7 +3705,7 @@
       266
     ],
     [
-      394872,
+      395004,
       "297",
       "\\oldguyrice03\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2901,7 +3713,7 @@
       267
     ],
     [
-      396449,
+      396581,
       "298",
       "\\Hobo-04\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2909,7 +3721,7 @@
       268
     ],
     [
-      398025,
+      398157,
       "299",
       "\\Hobo-04\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2917,7 +3729,7 @@
       269
     ],
     [
-      399538,
+      399670,
       "300",
       "\\Hobo-04\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2925,7 +3737,7 @@
       270
     ],
     [
-      401067,
+      401199,
       "301",
       "\\Hobo-04\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2933,7 +3745,7 @@
       271
     ],
     [
-      402568,
+      402700,
       "302",
       "\\Hobo-04\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2941,7 +3753,7 @@
       272
     ],
     [
-      404036,
+      404168,
       "303",
       "\\LindyGal\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2949,7 +3761,7 @@
       273
     ],
     [
-      405588,
+      405720,
       "304",
       "\\LindyGal\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2957,7 +3769,7 @@
       274
     ],
     [
-      407105,
+      407237,
       "305",
       "\\LindyGal\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2965,7 +3777,7 @@
       275
     ],
     [
-      408676,
+      408808,
       "306",
       "\\LindyGal\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2973,7 +3785,7 @@
       276
     ],
     [
-      409013,
+      409145,
       "307",
       "\\LindyGal\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2981,7 +3793,7 @@
       277
     ],
     [
-      410154,
+      410286,
       "308",
       "\\Kallisti\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2989,7 +3801,7 @@
       278
     ],
     [
-      411680,
+      411816,
       "309",
       "\\KINA411\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -2997,7 +3809,7 @@
       279
     ],
     [
-      413164,
+      413300,
       "310",
       "\\KINA411\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3005,7 +3817,7 @@
       280
     ],
     [
-      414648,
+      414784,
       "311",
       "\\KINA411\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3013,7 +3825,7 @@
       281
     ],
     [
-      416171,
+      416307,
       "312",
       "\\libraryfan\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3021,7 +3833,7 @@
       282
     ],
     [
-      417684,
+      417820,
       "313",
       "\\libraryfan\\Cosmas\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3029,7 +3841,7 @@
       283
     ],
     [
-      419159,
+      419295,
       "314",
       "\\oldguyrice03\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3037,7 +3849,7 @@
       284
     ],
     [
-      420600,
+      420736,
       "315",
       "\\oldguyrice03\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3045,7 +3857,7 @@
       285
     ],
     [
-      422113,
+      422249,
       "316",
       "\\oldguyrice03\\AKoz\\gudoleboy\\AKoz\\Plumy",
       0,
@@ -3053,7 +3865,7 @@
       286
     ],
     [
-      423662,
+      423798,
       "317",
       "\\oldguyrice03\\AKoz\\gudoleboy\\elisa_m\\Plumy",
       0,
@@ -3061,7 +3873,7 @@
       287
     ],
     [
-      425231,
+      425367,
       "318",
       "\\oldguyrice03\\AKoz\\gudoleboy\\elisa_m\\Plumy",
       0,
@@ -3069,7 +3881,7 @@
       288
     ],
     [
-      426724,
+      426860,
       "319",
       "\\oldguyrice03\\AKoz\\gudoleboy\\elisa_m\\Plumy",
       0,
@@ -3077,7 +3889,7 @@
       289
     ],
     [
-      428248,
+      428384,
       "320",
       "\\oldguyrice03\\AKoz\\gudoleboy\\elisa_m\\Plumy",
       0,
@@ -3085,7 +3897,7 @@
       290
     ],
     [
-      429749,
+      429885,
       "321",
       "\\oldguyrice03\\AKoz\\gudoleboy\\elisa_m\\Plumy",
       0,
@@ -3093,7 +3905,7 @@
       291
     ],
     [
-      431267,
+      431403,
       "322",
       "\\oldguyrice03\\AKoz\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3101,7 +3913,7 @@
       292
     ],
     [
-      432762,
+      432898,
       "323",
       "\\oldguyrice03\\AKoz\\gudoleboy\\elisa_m\\Plumy",
       0,
@@ -3109,7 +3921,7 @@
       293
     ],
     [
-      434204,
+      434340,
       "324",
       "\\oldguyrice03\\AKoz\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3117,7 +3929,7 @@
       294
     ],
     [
-      435749,
+      435885,
       "325",
       "\\oldguyrice03\\AKoz\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3125,7 +3937,7 @@
       295
     ],
     [
-      437295,
+      437431,
       "326",
       "\\Doug Robertson\\oldguyrice03\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -3133,7 +3945,7 @@
       296
     ],
     [
-      438858,
+      438994,
       "327",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3141,7 +3953,7 @@
       297
     ],
     [
-      439790,
+      439926,
       "328",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3149,7 +3961,7 @@
       298
     ],
     [
-      441143,
+      441279,
       "329",
       "\\Pucon\\AKoz\\gudoleboy\\Cosmas\\Plumy",
       2,
@@ -3157,7 +3969,7 @@
       318
     ],
     [
-      441143,
+      441279,
       "330",
       "\\Pucon\\AKoz\\gudoleboy\\Cosmas\\Plumy",
       2,
@@ -3165,7 +3977,7 @@
       319
     ],
     [
-      441143,
+      441279,
       "331",
       "\\Pucon\\AKoz\\gudoleboy\\Cosmas\\Plumy",
       0,
@@ -3173,7 +3985,7 @@
       299
     ],
     [
-      442697,
+      442833,
       "332",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3181,7 +3993,7 @@
       300
     ],
     [
-      444252,
+      444388,
       "333",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3189,7 +4001,7 @@
       301
     ],
     [
-      445814,
+      445950,
       "334",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3197,7 +4009,7 @@
       302
     ],
     [
-      447415,
+      447551,
       "335",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3205,7 +4017,7 @@
       303
     ],
     [
-      448992,
+      449128,
       "336",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3213,7 +4025,7 @@
       304
     ],
     [
-      450542,
+      450678,
       "337",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3221,7 +4033,7 @@
       305
     ],
     [
-      452094,
+      452230,
       "338",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3229,7 +4041,7 @@
       306
     ],
     [
-      453593,
+      453729,
       "339",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3237,7 +4049,7 @@
       307
     ],
     [
-      455140,
+      455276,
       "340",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3245,7 +4057,7 @@
       308
     ],
     [
-      456652,
+      456788,
       "341",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3253,7 +4065,7 @@
       309
     ],
     [
-      458099,
+      458235,
       "342",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3261,7 +4073,7 @@
       310
     ],
     [
-      459595,
+      459731,
       "343",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3269,7 +4081,7 @@
       311
     ],
     [
-      461086,
+      461222,
       "344",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3277,7 +4089,7 @@
       312
     ],
     [
-      462722,
+      462858,
       "345",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       2,
@@ -3285,7 +4097,7 @@
       334
     ],
     [
-      462722,
+      462858,
       "346",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       2,
@@ -3293,7 +4105,7 @@
       335
     ],
     [
-      462722,
+      462858,
       "347",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3301,7 +4113,7 @@
       313
     ],
     [
-      464236,
+      464372,
       "348",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3309,7 +4121,7 @@
       314
     ],
     [
-      465664,
+      465800,
       "349",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3317,7 +4129,7 @@
       315
     ],
     [
-      467156,
+      467292,
       "350",
       "\\Pucon\\AKoz\\oldguyrice03\\Cosmas\\Plumy",
       0,
@@ -3325,7 +4137,7 @@
       316
     ],
     [
-      468699,
+      468835,
       "351",
       "\\Pucon\\AKoz\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3333,7 +4145,7 @@
       317
     ],
     [
-      470260,
+      470396,
       "352",
       "\\Pucon\\AKoz\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3341,7 +4153,7 @@
       318
     ],
     [
-      471751,
+      471887,
       "353",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       2,
@@ -3349,7 +4161,7 @@
       342
     ],
     [
-      471751,
+      471887,
       "354",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       2,
@@ -3357,7 +4169,7 @@
       343
     ],
     [
-      471751,
+      471887,
       "355",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3365,7 +4177,7 @@
       319
     ],
     [
-      473438,
+      473574,
       "356",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3373,7 +4185,7 @@
       320
     ],
     [
-      474936,
+      475072,
       "357",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3381,7 +4193,7 @@
       321
     ],
     [
-      476473,
+      476609,
       "358",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3389,7 +4201,7 @@
       322
     ],
     [
-      478029,
+      478165,
       "359",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3397,7 +4209,7 @@
       323
     ],
     [
-      479555,
+      479691,
       "360",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3405,7 +4217,7 @@
       324
     ],
     [
-      481115,
+      481251,
       "361",
       "\\Pucon\\LindyGal\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3413,7 +4225,7 @@
       325
     ],
     [
-      482677,
+      482813,
       "362",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3421,7 +4233,7 @@
       326
     ],
     [
-      484176,
+      484312,
       "363",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3429,7 +4241,7 @@
       327
     ],
     [
-      485694,
+      485830,
       "364",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3437,7 +4249,7 @@
       328
     ],
     [
-      487165,
+      487301,
       "365",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3445,7 +4257,7 @@
       329
     ],
     [
-      488708,
+      488844,
       "366",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3453,7 +4265,7 @@
       330
     ],
     [
-      490268,
+      490404,
       "367",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3461,7 +4273,7 @@
       331
     ],
     [
-      491822,
+      491958,
       "368",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3469,7 +4281,7 @@
       332
     ],
     [
-      493330,
+      493466,
       "369",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3477,7 +4289,7 @@
       333
     ],
     [
-      494820,
+      494956,
       "370",
       "\\Pucon\\Cosmas\\oldguyrice03\\elisa_m\\Plumy",
       0,
@@ -3485,7 +4297,7 @@
       334
     ],
     [
-      496407,
+      496543,
       "371",
       "\\Pucon\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       2,
@@ -3493,7 +4305,7 @@
       360
     ],
     [
-      496407,
+      496543,
       "372",
       "\\Pucon\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       2,
@@ -3501,7 +4313,7 @@
       361
     ],
     [
-      496407,
+      496543,
       "373",
       "\\KenJ\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       0,
@@ -3509,7 +4321,7 @@
       335
     ],
     [
-      498086,
+      498222,
       "374",
       "\\KenJ\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       0,
@@ -3517,7 +4329,7 @@
       336
     ],
     [
-      499644,
+      499780,
       "375",
       "\\KenJ\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       0,
@@ -3525,7 +4337,7 @@
       337
     ],
     [
-      501181,
+      501317,
       "376",
       "\\KenJ\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       0,
@@ -3533,7 +4345,7 @@
       338
     ],
     [
-      502626,
+      502762,
       "377",
       "\\KenJ\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       0,
@@ -3541,7 +4353,7 @@
       339
     ],
     [
-      504227,
+      504363,
       "378",
       "\\KenJ\\Cosmas\\Joe Cooper\\mannyack\\Plumy",
       0,
@@ -3549,470 +4361,11 @@
       340
     ]
   ],
+  "IMAGEZOOM": 0.56,
+  "NOTES": "Page 68:  Affrica may be a typo for Africa\nPage 92: Bilboa may be a typo for Bilbao\nPage 124: resistence may be a typo for reistance\nPage 218: pannels should possibly be panels\n\n\n\nU.S.\nR.N.\nH.P.\n",
   "VERSION": "2",
-  "SCANNOLIST": [
-    "",
-    "bat",
-    "tare",
-    "home",
-    "tune",
-    "right",
-    "guru",
-    "docs",
-    "Rattle",
-    "cheek",
-    "noted",
-    "CHATTER",
-    "hail",
-    "boon",
-    "ringers",
-    "rioted",
-    "fax",
-    "Ill",
-    "tram",
-    "OP",
-    "CHARTER",
-    "tile",
-    "1",
-    "he",
-    "check",
-    "bow",
-    "ah",
-    "ease",
-    "tip",
-    "tie",
-    "mail",
-    "mall",
-    "train",
-    "fir",
-    "fee",
-    "meat",
-    "alien",
-    "hut",
-    "modern",
-    "loth",
-    "wails",
-    "eases",
-    "ears",
-    "Ms",
-    "cases",
-    "Eight",
-    "fie",
-    "spam",
-    "band",
-    "ho",
-    "fail",
-    "carriage",
-    "beard",
-    "ball",
-    "ha",
-    "coining",
-    "heads",
-    "tight",
-    "Hiss",
-    "ray",
-    "10th",
-    "car",
-    "nave",
-    "cither",
-    "haying",
-    "snore",
-    "cat",
-    "modem",
-    "ABE",
-    "away",
-    "fall",
-    "hit",
-    "anal",
-    "cars",
-    "lime",
-    "fingers",
-    "clone",
-    "fan",
-    "doer",
-    "alt",
-    "day",
-    "ringer",
-    "tum",
-    "cm",
-    "tinder",
-    "u",
-    "east",
-    "ether",
-    "hag",
-    "bit",
-    "Right",
-    "eve",
-    "comer",
-    "thing",
-    "have",
-    "lo",
-    "yon",
-    "111",
-    "time",
-    "hand",
-    "head",
-    "FOE",
-    "lie",
-    "be",
-    "beads",
-    "arc",
-    "Prance",
-    "dose",
-    "clays",
-    "clay",
-    "hall",
-    "bum",
-    "gram",
-    "hear",
-    "cast",
-    "dram",
-    "ment",
-    "vas",
-    "eyes",
-    "hie",
-    "m",
-    "FOB",
-    "eves",
-    "cur",
-    "her",
-    "hare",
-    "ail",
-    "die",
-    "tho",
-    "tiling",
-    "case",
-    "tier",
-    "eon",
-    "fiat",
-    "wen",
-    "tor",
-    "bag",
-    "bo",
-    "fanner",
-    "doth",
-    "hen",
-    "eat",
-    "wag",
-    "Ac",
-    "bumbled",
-    "bar",
-    "bear",
-    "arid",
-    "riot",
-    "humbled",
-    "gaming",
-    "carne",
-    "bad",
-    "clown",
-    "been",
-    "bur",
-    "hi",
-    "signer",
-    "far",
-    "borne",
-    "sonic",
-    "carnage",
-    "corner"
-  ],
-  "FOOTNOTES": [
-    [
-      74391,
-      74392,
-      504946,
-      505215
-    ],
-    [
-      92518,
-      92519,
-      505217,
-      505330
-    ],
-    [
-      144282,
-      144283,
-      505332,
-      505425
-    ],
-    [
-      146153,
-      146154,
-      505427,
-      506581
-    ],
-    [
-      157718,
-      157719,
-      506583,
-      507905
-    ],
-    [
-      236439,
-      236440,
-      507907,
-      508248
-    ],
-    [
-      328585,
-      328586,
-      508250,
-      508736
-    ]
-  ],
-  "FIND_UB": {
-    "22": {
-      "rep1": "",
-      "andnext": false,
-      "label": "4 empty lines",
-      "all": false,
-      "tooltip": null,
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=[^\\n]\\n)\\n\\n\\n\\n(?=[^\\n])",
-      "rep2": "",
-      "andprior": false
-    },
-    "10": {
-      "rep1": "",
-      "andnext": false,
-      "label": "unbalanced",
-      "all": false,
-      "tooltip": "Find open-bracket that is not followed by closing bracket",
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(\\([^)]+\\()|(\\[[^\\]]+\\[)|(\\{[^}]+\\{)|(<[^>]+<)",
-      "rep2": "",
-      "andprior": false
-    },
-    "15": {
-      "rep1": "",
-      "andnext": false,
-      "label": "not Latin-1",
-      "all": false,
-      "tooltip": "Find letters not in the Latin-1 set",
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "[^\\p{InBasic_Latin}\\p{InLatin-1_Supplement}]",
-      "rep2": "",
-      "andprior": false
-    },
-    "8": {
-      "rep1": null,
-      "andnext": null,
-      "label": "spacep",
-      "all": null,
-      "tooltip": "Whitespace preceding punctuation or after hyphen",
-      "regex": true,
-      "rep3": null,
-      "case": false,
-      "word": null,
-      "find": "(\\s[\\.,;:?!\\-])|(-\\s)",
-      "rep2": null,
-      "andprior": null
-    },
-    "13": {
-      "rep1": "",
-      "andnext": false,
-      "label": "1-letter",
-      "all": false,
-      "tooltip": "Find a one-letter line",
-      "regex": true,
-      "rep3": "",
-      "case": true,
-      "word": false,
-      "find": "(?<=\\n)[^\\n](?=\\n)",
-      "rep2": "",
-      "andprior": false
-    },
-    "23": {
-      "rep1": "",
-      "andnext": false,
-      "label": "5+ empty lines",
-      "all": false,
-      "tooltip": null,
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=[^\\n]\\n)\\n{5,}",
-      "rep2": "",
-      "andprior": false
-    },
-    "17": {
-      "rep1": "",
-      "andnext": false,
-      "label": "para-no-p",
-      "all": false,
-      "tooltip": "Find end of paragraph without punctuation",
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=\\w[\"'\u00bb]?)\\n\\n",
-      "rep2": "",
-      "andprior": false
-    },
-    "20": {
-      "rep1": "",
-      "andnext": false,
-      "label": "2 empty lines",
-      "all": false,
-      "tooltip": null,
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=[^\\n]\\n)\\n\\n(?=[^\\n])",
-      "rep2": "",
-      "andprior": false
-    },
-    "12": {
-      "rep1": "",
-      "andnext": false,
-      "label": "commaA",
-      "all": false,
-      "tooltip": "Find comma, space, uppercase (often valid)",
-      "regex": true,
-      "rep3": "",
-      "case": true,
-      "word": false,
-      "find": ",\\s*\\p{Uppercase_Letter}",
-      "rep2": "",
-      "andprior": false
-    },
-    "6": {
-      "rep1": "",
-      "andnext": true,
-      "label": "pseps",
-      "all": false,
-      "tooltip": null,
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=\\n)-+File:\\s+([^\\.]+)\\.png-+((\\\\[^\\\\\\n]+)+\\\\)?-*?\\n",
-      "rep2": "\\n",
-      "andprior": false
-    },
-    "9": {
-      "rep1": null,
-      "andnext": null,
-      "label": "-01-",
-      "all": null,
-      "tooltip": "Standalone 0 or 1",
-      "regex": true,
-      "rep3": null,
-      "case": null,
-      "word": null,
-      "find": "\\W[01]\\W",
-      "rep2": null,
-      "andprior": null
-    },
-    "14": {
-      "rep1": "",
-      "andnext": false,
-      "label": "lcpara",
-      "all": false,
-      "tooltip": "Paragraph (text after two newlines) starts with lowercase",
-      "regex": true,
-      "rep3": "",
-      "case": true,
-      "word": false,
-      "find": "(?<=\\n\\n)\\p{Lowercase_Letter}",
-      "rep2": "",
-      "andprior": false
-    },
-    "7": {
-      "rep1": "-",
-      "andnext": false,
-      "label": "faux-hy",
-      "all": false,
-      "tooltip": "Find hyphen-shaped Unicode characters other than ascii hyphen",
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "[\\u02d7\\u2012\\u2013\\u2014\\u2053\\u2212\\ufe58\\ufe63\\uff0d]+",
-      "rep2": "",
-      "andprior": false
-    },
-    "11": {
-      "rep1": "",
-      "andnext": false,
-      "label": "dota",
-      "all": false,
-      "tooltip": "Find period, space, lowercase",
-      "regex": true,
-      "rep3": "",
-      "case": true,
-      "word": false,
-      "find": "\\.\\s*\\p{Lowercase_Letter}",
-      "rep2": "",
-      "andprior": false
-    },
-    "21": {
-      "rep1": "",
-      "andnext": false,
-      "label": "3 empty lines",
-      "all": false,
-      "tooltip": null,
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=[^\\n]\\n)\\n\\n\\n(?=[^\\n])",
-      "rep2": "",
-      "andprior": false
-    },
-    "18": {
-      "rep1": null,
-      "andnext": null,
-      "label": "line>75",
-      "all": null,
-      "tooltip": "Find line longer than 75 characters",
-      "regex": true,
-      "rep3": null,
-      "case": null,
-      "word": null,
-      "find": "[^\\n]{76,}",
-      "rep2": null,
-      "andprior": null
-    },
-    "19": {
-      "rep1": "",
-      "andnext": false,
-      "label": "1 empty line",
-      "all": false,
-      "tooltip": null,
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "(?<=[^\\n]\\n)\\n(?=[^\\n])",
-      "rep2": "",
-      "andprior": false
-    },
-    "16": {
-      "rep1": "",
-      "andnext": false,
-      "label": "not 7-bit",
-      "all": false,
-      "tooltip": "Find letters not in the 7-bit ascii set",
-      "regex": true,
-      "rep3": "",
-      "case": false,
-      "word": false,
-      "find": "[^\\p{InBasic_Latin}]",
-      "rep2": "",
-      "andprior": false
-    }
-  },
+  "BOOKMARKS": [],
+  "BADWORDS": [],
   "WORDCENSUS": [
     [
       "000",
@@ -79158,403 +79511,50 @@
       ]
     ]
   ],
-  "IMAGEZOOM": 0.56,
   "CURSOR": [
-    506380,
-    506380
+    411781,
+    411781
   ],
-  "CHARCENSUS": [
-    [
-      " ",
-      79291
-    ],
-    [
-      "!",
-      27
-    ],
-    [
-      "\"",
-      1148
-    ],
-    [
-      "$",
-      157
-    ],
-    [
-      "&",
-      34
-    ],
-    [
-      "'",
-      255
-    ],
-    [
-      "(",
-      248
-    ],
-    [
-      ")",
-      248
-    ],
-    [
-      "*",
-      16
-    ],
-    [
-      ",",
-      5996
-    ],
-    [
-      "-",
-      1171
-    ],
-    [
-      ".",
-      3770
-    ],
-    [
-      "/",
-      701
-    ],
-    [
-      "0",
-      1178
-    ],
-    [
-      "1",
-      1261
-    ],
-    [
-      "2",
-      564
-    ],
-    [
-      "3",
-      380
-    ],
-    [
-      "4",
-      356
-    ],
-    [
-      "5",
-      412
-    ],
-    [
-      "6",
-      350
-    ],
-    [
-      "7",
-      375
-    ],
-    [
-      "8",
-      640
-    ],
-    [
-      "9",
-      313
-    ],
-    [
-      ":",
-      118
-    ],
-    [
-      ";",
-      333
-    ],
-    [
-      "<",
-      1368
-    ],
-    [
-      ">",
-      1368
-    ],
-    [
-      "?",
-      23
-    ],
-    [
-      "A",
-      1327
-    ],
-    [
-      "B",
-      785
-    ],
-    [
-      "C",
-      930
-    ],
-    [
-      "D",
-      252
-    ],
-    [
-      "E",
-      606
-    ],
-    [
-      "F",
-      422
-    ],
-    [
-      "G",
-      282
-    ],
-    [
-      "H",
-      438
-    ],
-    [
-      "I",
-      935
-    ],
-    [
-      "J",
-      213
-    ],
-    [
-      "K",
-      47
-    ],
-    [
-      "L",
-      346
-    ],
-    [
-      "M",
-      479
-    ],
-    [
-      "N",
-      585
-    ],
-    [
-      "O",
-      271
-    ],
-    [
-      "P",
-      397
-    ],
-    [
-      "Q",
-      13
-    ],
-    [
-      "R",
-      349
-    ],
-    [
-      "S",
-      885
-    ],
-    [
-      "T",
-      1343
-    ],
-    [
-      "U",
-      153
-    ],
-    [
-      "V",
-      100
-    ],
-    [
-      "W",
-      476
-    ],
-    [
-      "X",
-      21
-    ],
-    [
-      "Y",
-      204
-    ],
-    [
-      "Z",
-      2
-    ],
-    [
-      "[",
-      43
-    ],
-    [
-      "]",
-      43
-    ],
-    [
-      "a",
-      31606
-    ],
-    [
-      "b",
-      5239
-    ],
-    [
-      "c",
-      10698
-    ],
-    [
-      "d",
-      15016
-    ],
-    [
-      "e",
-      50865
-    ],
-    [
-      "f",
-      9930
-    ],
-    [
-      "g",
-      6967
-    ],
-    [
-      "h",
-      23146
-    ],
-    [
-      "i",
-      26792
-    ],
-    [
-      "j",
-      197
-    ],
-    [
-      "k",
-      1799
-    ],
-    [
-      "l",
-      13656
-    ],
-    [
-      "m",
-      8688
-    ],
-    [
-      "n",
-      27666
-    ],
-    [
-      "o",
-      28653
-    ],
-    [
-      "p",
-      8319
-    ],
-    [
-      "q",
-      250
-    ],
-    [
-      "r",
-      24974
-    ],
-    [
-      "s",
-      25521
-    ],
-    [
-      "t",
-      36328
-    ],
-    [
-      "u",
-      9127
-    ],
-    [
-      "v",
-      3644
-    ],
-    [
-      "w",
-      8243
-    ],
-    [
-      "x",
-      593
-    ],
-    [
-      "y",
-      5604
-    ],
-    [
-      "z",
-      278
-    ],
-    [
-      "\u00a3",
-      62
-    ],
-    [
-      "\u00b0",
-      1
-    ],
-    [
-      "\u00bd",
-      11
-    ],
-    [
-      "\u00be",
-      2
-    ],
-    [
-      "\u00d7",
-      2
-    ],
-    [
-      "\u00e6",
-      10
-    ],
-    [
+  "FIND_RB": {
+    "3": [
+      "Ill4",
+      "Ill7",
+      "Ill10",
+      "Ill13",
+      "Ill16"
+    ],
+    "0": [
+      "Ill1",
+      "South Street",
+      "CHAPTER",
+      "Footnote",
+      "[**",
+      "/*",
+      "[4]",
+      "1/2",
+      "cambrick",
+      "&"
+    ],
+    "1": [
       "\u00e9",
-      4
-    ],
-    [
-      "\u00ea",
-      1
-    ],
-    [
-      "\u00eb",
-      5
-    ],
-    [
-      "\u00f4",
-      2
-    ],
-    [
-      "\u00f6",
-      2
-    ],
-    [
-      "\u0153",
-      2
-    ],
-    [
-      "\u2032",
-      1
-    ],
-    [
       "\u2153",
-      1
+      "[Illustration: <id=\"Ill1\">",
+      "Ill2",
+      "Ill5",
+      "Ill8",
+      "Ill11",
+      "Ill14",
+      "[",
+      "&amp;"
     ],
-    [
-      "\u2154",
-      1
+    "2": [
+      "-*",
+      "\u00be",
+      "Ill3",
+      "Ill6",
+      "Ill9",
+      "Ill12",
+      "Ill15"
     ]
-  ],
-  "IMAGELINKING": [
-    true,
-    false
-  ]
+  }
 }

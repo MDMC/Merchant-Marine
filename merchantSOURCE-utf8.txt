@@ -15,7 +15,7 @@ THE MACMILLAN COMPANY
 NEW YORK  BOSTON  CHICAGO
 ATLANTA  SAN FRANCISCO
 
-MACMILLAN & CO., <sc>Limited</sc>
+MACMILLAN &amp; CO., <sc>Limited</sc>
 
 LONDON  BOMBAY  CALCUTTA
 MELBOURNE
@@ -60,7 +60,7 @@ Set up and electrotyped. Published March, 1910.
 
 
 Norwood Press
-J. S. Cushing Co.--Berwick & Smith Co.
+J. S. Cushing Co.--Berwick &amp; Smith Co.
 Norwood, Mass., U.S.A.
 */
 
@@ -1125,7 +1125,7 @@ the two-thirds, of course. But as Weeden, in his <i>Economic
 History of New England</i> (quoting Bourne's <i>Wells and
 Kennebunk</i>), shows, in 1682-1685, if not earlier, "the
 capitalist fitting out the expedition with boat, provisions,
-seines, &c., took one-half the value of the catch, and
+seines, &amp;c., took one-half the value of the catch, and
 the other part went to the crew." In the eighteenth
 century the share of the capitalist was reduced to one-fifth.
 
@@ -1414,7 +1414,7 @@ forwarded to their final destination. Sugar, molasses,
 ginger, fustic, tobacco, cotton and indigo were originally
 enumerated; and the list was subsequently enlarged by
 the addition of coffee, hides and skins, iron, corn [<i>i.e.</i>
-grain], lumber, &c."
+grain], lumber, &amp;c."
 
 That is to say, the colonists were compelled to take the
 <i>enumerated</i> products to England and there lay them "upon
@@ -2114,7 +2114,7 @@ as this deadly stupefier.
 Many stories of the early slave trade remain, but none
 shows the conditions as they were better than that of a
 voyage made by Captain David Lindsay, in the 40-ton
-brigantine <i>Sanderson</i>, belonging to William Johnson &
+brigantine <i>Sanderson</i>, belonging to William Johnson &amp;
 Co., of Newport, in 1752. She sailed for the black coast
 on August 22, at 11.32 o'clock, the exact minute being
 noted on an astrologer's chart which the captain had obtained
@@ -2126,11 +2126,11 @@ small quantities. A partial description of the vessel before
 sailing says she was "tite as yet." In a letter dated "Anamaboe
 28th Feb. 1753," Captain Lindsay reports progress:--
 
-"I have got 13 or 14 hhds of Rum yet left a board &
+"I have got 13 or 14 hhds of Rum yet left a board &amp;
 God noes when I shall get clear of it. Ye traid is so dull
 it is actually a noof to make a man Creasy." Officers and
 men had been sick, one was likely to die, "and wors than yt
-have wore out my small cable & have been obliged to buy
+have wore out my small cable &amp; have been obliged to buy
 one heare.... I beg you not blaime me in so doeing.
 I should be glad I could come rite home with my slaves for
 my vesiel will not last to proceed farr. <i>We can see day
@@ -2141,10 +2141,10 @@ says:--
 
 "These are to acqt you of my arivel heare ye day before
 yesterday from anamaboe. I met on my passage 22 days
-of very squaly winds & continued Rains so that it beat my
+of very squaly winds &amp; continued Rains so that it beat my
 sails alto piceses.... My slaves is not landed as yet:
-they are 56 in number for owners all in helth & fatt....
-I've got 40 ounces gould dust & eight or nine hundred
+they are 56 in number for owners all in helth &amp; fatt....
+I've got 40 ounces gould dust &amp; eight or nine hundred
 weight maligabar pepper for owners."
 
 As we see it the trade was horrible, but consider the
@@ -2172,10 +2172,10 @@ In addition to the ordinary monthly wages, he received
 several commissions. "You are to have four out of 104
 for your coast commission," wrote the owner of the
 schooner <i>Sierra Leone</i>, in which Captain Lindsay made a
-voyage in 1754, "& five per cent for the sale of your cargo
-in the West Indies & five per cent for the goods you purchase
+voyage in 1754, "&amp; five per cent for the sale of your cargo
+in the West Indies &amp; five per cent for the goods you purchase
 for return cargo. You are to have five slaves Privilege,
-your cheafe mate Two, if he can purchase them, &
+your cheafe mate Two, if he can purchase them, &amp;
 your second mate two."
 
 The "Privilege" was the "private venture" of the trade.
@@ -2188,22 +2188,22 @@ a copy of a bill of lading, followed by a letter of instructions
 to a captain about to sail in the slave trade:--
 
 "Shipped by the Grace of God in good order and well
-conditioned, by William Johnson & Co., owners of the
-Sierra Leone, in & upon the said Schooner Sierra Leone,
+conditioned, by William Johnson &amp; Co., owners of the
+Sierra Leone, in &amp; upon the said Schooner Sierra Leone,
 where of is master under God for this present voyage
-David Lindsay, & now riding at Anchor in Harbour of
+David Lindsay, &amp; now riding at Anchor in Harbour of
 Newport, and by God's Grace bound for the Coast of
 Africa: To say, Thirty-four hogsheads, Tenn Tierces,
-Eight barrels & six half barrels Rum, one barrel Sugar,
+Eight barrels &amp; six half barrels Rum, one barrel Sugar,
 sixty Musketts, six half barrels Powder, one box beads,
 Three boxes Snuff, Two barrels Tallow, Twenty-one
 barrels Beef, Pork and Mutton, 14 cwt. 1 qr. 22 lbs. bread,
 one barrel mackerel, six shirts, five Jacketts, one piece
 blue Calico, one piece Chex, one mill, shackles, handcuffs
-&c.
+&amp;c.
 
-"Being marked and numbered as in the Margent; &
-are to be delivered in like good Order & well conditioned,
+"Being marked and numbered as in the Margent; &amp;
+are to be delivered in like good Order &amp; well conditioned,
 at the aforesaid port of the coast of Affrica (the Dangers
 of the Seas only excepted) unto the said David Lindsay
 or to his assigns, he or they paying Freight for the said
@@ -3445,9 +3445,9 @@ those days. Thus Tenney and Brown, of Newbury, sent
 "9 kegs snuff," and a note in the margin of the manifest
 tells Captain Magee that "⅓ the net proceeds you are to
 credit E. H. D.'s account for freight--the other ⅔ to lay
-out on account of T. & B. in light goods." Opposite
+out on account of T. &amp; B. in light goods." Opposite
 the item "1 phaeton and harness complete, with saddles
-and bridles &c., cased up" is a note saying: "This
+and bridles &amp;c., cased up" is a note saying: "This
 belongs to Folger Pope ... the net proceeds is to be
 credited to E. H. D.'s account, as friend Derby is to have
 the use of the money for freight." David Seas sent
@@ -3472,7 +3472,7 @@ heard, ... and fifteen thousand of salt petre, if it is very
 low, some nutmegs, and fifty thousand weight of pepper;
 this you will store in the fore peak for fear of injuring the
 teas. The sugars will save the expense of any stone ballast,
-and it will make a floor for the teas &c. at Canton.
+and it will make a floor for the teas &amp;c. at Canton.
 At Batavia you must, if possible, get as much freight for
 Canton as will pay half or more of your charges....
 You must endeavor to be the first ship with ginseng, for
@@ -4833,7 +4833,7 @@ with which one Patrick Millar navigated Lake Dalwinston,
 in Scotland. Although Millar spent $150,000 in
 experiments with steam, nothing came of them. In 1801
 Symington induced Lord Dundas, president of the Forth
-& Clyde Canal Company, to build a steam-tug for towing
+&amp; Clyde Canal Company, to build a steam-tug for towing
 barges.
 
 This tug, named the <i>Charlotte Dundas</i>, had an engine
@@ -4900,7 +4900,7 @@ shafts, and the fly-wheels and their driving gear were all
 of Fulton's design.
 
 According to Fulton's diary, he paid Watt £548 for the
-engine. The boiler, built by Cave & Son, of London,
+engine. The boiler, built by Cave &amp; Son, of London,
 cost "at 2<i>s</i> 2<i>d</i> the pound, £476 11<i>s</i> 2<i>d</i>." This was the first
 engine of the kind that Watt was allowed to build for
 export, and Fulton writes on March 22, 1805:--
@@ -5295,7 +5295,7 @@ Jersey</i> from New York to the Chesapeake, a voyage thought
 to be full of danger for such a vessel. He was now inspired
 with the ambition to be the first to drive a steamship
 across the Atlantic, and after a look at the ship that
-Fickett was building, he persuaded Scarborough & Isaacs,
+Fickett was building, he persuaded Scarborough &amp; Isaacs,
 ship merchants of Savannah, to buy and fit her with a steam
 engine for use between Savannah and Liverpool.
 
@@ -6636,15 +6636,15 @@ being 15 days and 18 hours--made by the <i>New York</i>
 in 1822. The westward passage during that time was
 made in 40 days on the average.
 
-In 1821 the Red Star Line (Byrnes, Grimble, & Co.)
+In 1821 the Red Star Line (Byrnes, Grimble, &amp; Co.)
 entered the Liverpool service with a ship every month on
 the 24th--a week ahead of the Black Ball Line. To meet
 this competition the Black Ball began sending ships away
 on the 16th as well as the first, and then the Swallow
-Tail Line (Thaddeus Phelps & Co., and Fish, Grinnell,
-& Co.) made the service weekly.
+Tail Line (Thaddeus Phelps &amp; Co., and Fish, Grinnell,
+&amp; Co.) made the service weekly.
 
-In 1821 Thomas Cope & Son began a monthly service
+In 1821 Thomas Cope &amp; Son began a monthly service
 from Philadelphia to Liverpool, and in 1823 the Swallow
 Tail Line began sending ships monthly to London. This
 last service soon had opposition in a line established by
@@ -6765,7 +6765,7 @@ paper published in July, 1836:--
 for Liverpool on the 8th instant. Among them were
 the packet ships Sheffield, Allen; the Columbus, Palmer;
 and the George Washington, H. Holdredge, and several
-first-rate vessels, the Star, the Congress, the Josephine, &c.
+first-rate vessels, the Star, the Congress, the Josephine, &amp;c.
 Heavy bets were laid on the respective ships at the time of
 sailing. The three packet ships having parted company,
 fell in with each other on the Banks of Newfoundland.
@@ -6822,7 +6822,7 @@ passages to Liverpool in fourteen days or less--the
 <i>Montezuma</i>, the <i>Patrick Henry</i>, the <i>Southampton</i>, the <i>St.</i>
 <i>Andrew</i>, and the <i>Dreadnought</i>. Under Captain Samuel
 Samuels the <i>Dreadnought</i> was the most famous of them
-all. She ran in the St. George's line--A. Taylor & Co.
+all. She ran in the St. George's line--A. Taylor &amp; Co.
 Samuels was born in Philadelphia, on March 14, 1823.
 He ran away to sea when eleven years old, and at twenty-one,
 after a venturesome career, was placed in command
@@ -8138,7 +8138,7 @@ In the winter of 1846-1847 Collins and others persuaded
 Congress to pass the act dated March 3, 1847. It provided
 for the construction of four naval steamers in place of
 ten that the naval committee had asked for; for a contract
-between the Secretary of the Navy and Collins & Co.,
+between the Secretary of the Navy and Collins &amp; Co.,
 for transporting the mail between New York and Liverpool;
 for a contract between the Secretary of the Navy and
 A. G. Sloo for transporting the mail between New York and
@@ -8529,7 +8529,7 @@ Then he towed the American packet ship <i>Toronto</i> at a
 speed of four and a half miles an hour. On July 7, 1838,
 an iron vessel 70 feet long by 10 wide, and having a draft
 of 6 feet 9 inches, named the <i>Robert F. Stockton</i>, was
-launched at Laird & Co.'s yard, Birkenhead, England,
+launched at Laird &amp; Co.'s yard, Birkenhead, England,
 for Captain Robert F. Stockton, U. S. N. It was fitted
 with an engine and an Ericsson screw. It was then brought
 to America under sail, and set to work under steam as
